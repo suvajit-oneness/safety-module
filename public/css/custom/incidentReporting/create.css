@@ -1,0 +1,125 @@
+
+.degree_btn{
+    margin-top: 10px;
+    width: 100%;
+    background: black;
+    color: white;
+    border-radius: 20px;
+}
+#preview img {
+    margin: 10px;
+    border: 1px solid;
+    padding: 10px;
+    width: 200px!important;
+}
+.associated_cost_err_msg{
+    font-size: 12px;
+    color: red;
+    display: none;
+}
+.local_cost_err_msg{
+    font-size: 12px;
+    color: red;
+    display: none;
+}
+.degree_picker{
+    display: none;
+    justify-content: center;
+    position: relative;
+    background: #ffffff;
+    margin-top: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/* .full .rs-tooltip {
+    top: 36%;
+    left: 36%;
+    } */
+.navbar{
+    background-color: #ffffff !important;
+    margin-bottom:20px !important;
+    background: #ffffff;
+    box-shadow:  5px 5px 10px #a7a7a7,
+                -5px -5px 10px #ffffff;
+}
+body{
+    background-color: #ffffff;
+}
+.form-control.custom{
+    border-radius: 8px !important;
+    background: #ffffff;
+    /* box-shadow: 5px 5px 5px #b1b1b1, -5px -5px 5px #ffffff; */
+}
+.clockpicker-button, .popover-title
+{
+    background-color: black !important;
+    color: #ffdddd !important;
+    border-radius: 14px !important;
+}
+.clockpicker-popover
+{
+    border-radius : 14px !important;
+}
+
+.custom-select,
+.form-control{
+    border-radius: 15px !important;
+    outline: none !important;
+}
+.custom-select,
+.form-control:focus{
+    outline: none !important;
+    box-shadow: none;
+}
+
+/* numorphispm */
+.numo{
+    border-radius: 10px !important;
+    background: #ffffff !important;
+    border: 1px solid #007bff; !important;
+}
+/* .numo-btn,
+#add_supporting_member,
+#add_event_log,
+#add_more_actions_five_why,
+#first_why_for_five_why_display_btn,
+#second_why_for_five_why_display_btn,
+#third_why_for_five_why_display_btn,
+#fourth_why_for_five_why_display_btn,
+#Add_more_event_investigation_btn{
+    
+    color:black !important;
+    border-radius: 10px !important;
+    background: #e0e0e0 !important;
+    border:1px solid #696969;
+    
+} */
+
+.custom-select,
+.form-control{
+    border-radius: 8px !important;
+    background: #ffffff;
+
+    border:1px solid #696969;
+}
+
+/* numorphispm end */
+
+.file_upload{
+    margin-top: 3%;
+    border-radius: 8px !important;
+    background: #e0e0e0;
+    /* box-shadow:  5px 5px 14px #b1b1b1,
+                -5px -5px 14px #ffffff; */
+    color: #000000;
+    font-weight: 500;
+    padding: 10px;
+}
+.form-group label{
+    font-weight: 700;
+}
+#canvas-editor {
+        margin-top: 50px;
+        margin-left: 50px;
+    }

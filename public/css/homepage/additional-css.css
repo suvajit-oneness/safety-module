@@ -1,0 +1,11 @@
+.card-header.new{
+    background-color: #6c757d;
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+}
+.btn-light.custom-btn {
+    color: #000;
+    background-color: #e5e6e7;
+    border-color: #e5e6e7;
+}

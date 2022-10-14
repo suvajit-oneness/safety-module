@@ -1,0 +1,42 @@
+.modal-dialog {
+    max-width: 70% !important;
+}
+
+.form-control-custom {
+    height: calc(1.6em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: .9rem;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.important{
+	color: red;
+}
+
+#section2Row{
+    overflow-x: scroll;
+}
+
+.show_less 
+{
+  overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.readLessPara
+{
+    content: "Read Less";
+}
+/* dynamic css */
+.save-template{
+    display: none;
+}

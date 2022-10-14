@@ -1,0 +1,16 @@
+.form-group label{
+	font-size: 14px !important;
+    color: #70657b !important;
+    margin-bottom: 4px !important;
+}
+.card{
+	border-radius: 10px !important;
+}
+.breadcrumb{
+	background-color: transparent !important;
+	border-radius: 0px !important;
+	border-bottom: 1px solid #d8d8d8 !important;
+	margin-bottom: 2rem !important;
+}
+
+

@@ -1,0 +1,30 @@
+.report{
+    background: blueviolet;
+    color:white;
+}
+.preview{
+    background: rgb(204, 204, 41);
+    color:white;
+}
+.print{
+ background: rgb(56, 56, 218);
+ color:white;
+}
+.edit{
+    background: #33c3e7;
+    color:white;
+}
+.delete{
+    background: rgb(245, 42, 42);
+    color:white;
+}
+.shadow{
+    cursor: default;
+}
+.download{
+    background-color:rgb(36, 199, 232);
+    color:white;
+}
+.test{
+    color: rgb(91, 154, 150);
+}

@@ -1,0 +1,50 @@
+<style>
+        /* multi-select css edit */
+        .multiselect-container
+        {
+            height: 200px !important;
+            overflow-y:scroll !important;
+        }
+        /* Mark input boxes that gets an error on validation: */
+        input.invalid {
+            background-color: #ffdddd;
+        }
+
+        /* Hide all steps by default: */
+        .tab {
+            display: none;
+        }
+
+        /* Make circles that indicate the steps of the form: */
+        .step {
+            height: 18px;
+            width: 18px;
+            margin: 0 0px;
+            margin-left: 0px;
+            background-color: #004cff;
+            border: 1px solid #002986;
+            display: inline-block;
+            opacity: 0.5;
+            margin-left: 20px;
+            border-radius: 100px !important;
+        }
+        
+        .form-control:disabled, .form-control[readonly] {
+            /* background-color: #ffdddd !important; */
+            opacity: 1 !important;
+        }
+        /* Mark the active step: */
+        .step.active {
+            opacity: 1;
+        }
+
+        /* Mark the steps that are finished and valid: */
+        .step.finish {
+            background-color: #ffffff;
+            border: 5px solid #004cff;
+
+        }
+            .modal-dialog{
+                /* max-width: 100% !important; */
+            }
+    </style>

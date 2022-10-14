@@ -1,0 +1,164 @@
+.degree_btn{
+    margin-top: 10px;
+    width: 100%;
+    background: black;
+    color: white;
+    border-radius: 20px;
+}
+#preview img {
+    margin: 10px;
+    border: 1px solid;
+    padding: 10px;
+    width: 200px!important;
+}
+.associated_cost_err_msg{
+    font-size: 12px;
+    color: red;
+    display: none;
+}
+.local_cost_err_msg{
+    font-size: 12px;
+    color: red;
+    display: none;
+}
+.degree_picker{
+    display: none;
+    justify-content: center;
+    position: relative;
+    background: #ffffff;
+    margin-top: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/* .full .rs-tooltip {
+    top: 36%;
+    left: 36%;
+    } */
+.navbar{
+    background-color: #ffffff !important;
+    margin-bottom:20px !important;
+    background: #ffffff;
+    box-shadow:  5px 5px 10px #a7a7a7,
+                -5px -5px 10px #ffffff;
+}
+body{
+    background-color: #ffffff;
+}
+.form-control.custom{
+    border-radius: 8px !important;
+    background: #ffffff;
+    /* box-shadow: 5px 5px 5px #b1b1b1, -5px -5px 5px #ffffff; */
+}
+.clockpicker-button, .popover-title
+{
+    background-color: black !important;
+    color: #ffdddd !important;
+    border-radius: 14px !important;
+}
+.clockpicker-popover
+{
+    border-radius : 14px !important;
+}
+
+.custom-select,
+.form-control{
+    border-radius: 15px !important;
+    outline: none !important;
+}
+.custom-select,
+.form-control:focus{
+    outline: none !important;
+    box-shadow: none;
+}
+
+/* numorphispm */
+.numo{
+    border-radius: 10px !important;
+    background: #ffffff !important;
+    border: 1px solid #007bff; !important;
+}
+
+
+.custom-select,
+.form-control{
+    border-radius: 8px !important;
+    background: #ffffff;
+
+    border:1px solid #696969;
+}
+
+/* numorphispm end */
+
+.file_upload{
+    margin-top: 3%;
+    border-radius: 8px !important;
+    background: #e0e0e0;
+    /* box-shadow:  5px 5px 14px #b1b1b1,
+                -5px -5px 14px #ffffff; */
+    color: #000000;
+    font-weight: 500;
+    padding: 10px;
+}
+.form-group label{
+    font-weight: 700;
+}
+
+.oneliner{
+    clear: both;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+
+/*Multi-step Style*/
+    <style>
+        /* multi-select css edit */
+        .multiselect-container
+        {
+            height: 200px !important;
+            overflow-y:scroll !important;
+        }
+        /* Mark input boxes that gets an error on validation: */
+        input.invalid {
+            background-color: #ffdddd;
+        }
+
+        /* Hide all steps by default: */
+        .tab {
+            display: none;
+        }
+
+        /* Make circles that indicate the steps of the form: */
+        .step {
+            height: 15px;
+            width: 20px;
+            margin: 0 0px;
+            background-color: #004cff;
+            border: 1px solid #002986;
+            display: inline-block;
+            opacity: 0.5;
+            margin-left: 20px;
+            border-radius: 10px !important;
+
+        }
+        .form-control:disabled, .form-control[readonly] {
+            background-color: #ffdddd !important;
+            opacity: 1 !important;
+        }
+        /* Mark the active step: */
+        .step.active {
+            opacity: 1;
+        }
+
+        /* Mark the steps that are finished and valid: */
+        .step.finish {
+            background-color: #ffffff;
+            border: 5px solid #004cff;
+
+        }
+            .modal-dialog{
+                /* max-width: 100% !important; */
+            }
+    </style>
+/*Multi-step Style End*/ 

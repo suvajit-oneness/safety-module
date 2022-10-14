@@ -1,0 +1,97 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class AddColumnsRiskAssessmentVesselInfo extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        //
+        Schema::table('risk_assessment_vessel_infos', function (Blueprint $table) {
+            $table->string('vessel_name')->nullable();
+            $table->string('weather')->nullable();
+            $table->string('voyage')->nullable();
+            $table->string('location')->nullable();
+            $table->string('tide')->nullable();
+            $table->string('work_activity')->nullable();
+            $table->string('work_area')->nullable();
+            $table->string('visibility')->nullable();
+            $table->string('master_name')->nullable(); 
+            $table->date('master_date')->nullable();
+            $table->string('ch_off_name')->nullable(); 
+            $table->date('ch_off_date')->nullable();
+            $table->string('ch_eng_name')->nullable(); 
+            $table->date('ch_eng_date')->nullable();
+            $table->string('eng2_name')->nullable(); 
+            $table->date('eng2_date')->nullable();
+            $table->string('sm_name')->nullable(); 
+            $table->date('sm_date')->nullable();
+            $table->string('dgm_activity_type')->nullable();
+            $table->string('dgm_name')->nullable(); 
+            $table->date('dgm_date')->nullable();
+            $table->string('name_rank')->nullable();
+            $table->string('gm_activity_type')->nullable();
+            $table->string('gm_name')->nullable(); 
+            $table->date('gm_date')->nullable();
+                      
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        //
+        Schema::table('risk_assessment_vessel_infos', function($table) {            
+            // $table->dropColumn('vessel_name');
+            // $table->dropColumn('weather');
+            // $table->dropColumn('voyage');
+            // $table->dropColumn('location');
+            // $table->dropColumn('tide');
+            // $table->dropColumn('work_activity');
+            // $table->dropColumn('work_area');
+            // $table->dropColumn('visibility');
+            // $table->dropColumn('master_name'); 
+            // $table->dropColumn('master_date');
+            // $table->dropColumn('ch_off_name'); 
+            // $table->dropColumn('ch_off_date');
+            // $table->dropColumn('ch_eng_name'); 
+            // $table->dropColumn('ch_eng_date');
+            // $table->dropColumn('eng2_name'); 
+            // $table->dropColumn('eng2_date');
+            // $table->dropColumn('sm_name'); 
+            // $table->dropColumn('sm_date');
+            // $table->dropColumn('dgm_activity_type');
+            // $table->dropColumn('dgm_name'); 
+            // $table->dropColumn('dgm_date');
+            // $table->dropColumn('name_rank');
+            // $table->dropColumn('gm_activity_type');
+            // $table->dropColumn('gm_name'); 
+            // $table->dropColumn('gm_date');
+            
+            // $table->dropColumn('assess_date');
+            // $table->dropColumn('activity_name');
+            // $table->dropColumn('activity_type');
+            // $table->dropColumn('activity_group');
+            // $table->dropColumn('linkages');
+            // $table->dropColumn('assessed_by');
+            // $table->dropColumn('assess_rank');
+            // $table->dropColumn('verified_by');
+            // $table->dropColumn('verify_rank');
+            // $table->dropColumn('reviewed_by');
+            // $table->dropColumn('review_rank');
+            // $table->dropColumn('comments');
+            // $table->dropColumn('recommendations');
+        });
+    }
+}

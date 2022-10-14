@@ -1,0 +1,49 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class AlterHazardMasterLists extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::table('hazard_master_lists', function (Blueprint $table) {
+            $table->renameColumn('hazards_bkp', 'vessel_name');
+            $table->renameColumn('hazards', 'hazard_no');
+            $table->renameColumn('threats', 'source');
+            $table->renameColumn('top_event', 'hazard_details');
+            $table->renameColumn('consequences', 'impact');
+            $table->renameColumn('control', 'applicable_permits');
+            $table->renameColumn('recover_measure', 'review');
+            $table->renameColumn('reduction_measure', 'situation');
+            $table->renameColumn('remarks', 'ir_severity');
+            $table->renameColumn('risk_p', 'ir_likelihood');
+            $table->renameColumn('risk_e', 'ir_risk_rating');
+            $table->renameColumn('risk_a', 'control');            
+            $table->renameColumn('risk_r', 'rr_severity');
+            $table->renameColumn('nett_risk_p', 'rr_likelihood');
+            $table->renameColumn('nett_risk_e', 'rr_risk_rating');
+            $table->renameColumn('nett_risk_a', 'life_cycle');
+
+            // $table->dropColumn('nett_risk_r');
+            // $table->dropColumn('hazard_title');
+           
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        //
+    }
+}

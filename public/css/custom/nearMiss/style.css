@@ -1,0 +1,103 @@
+	.show_less
+	{
+	  overflow: hidden;
+		text-overflow: ellipsis;
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+	}
+	.readLessPara
+	{
+		content: "Read Less";
+	}
+	.scroll-class{
+		transform: rotateX(180deg) !important;
+		-webkit-transform:rotateX(180deg) !important;
+	}
+	.wrapper1{
+		height:20px;
+		width:100%;
+		border: none;
+		overflow-x: scroll; 
+		overflow-y:hidden
+	}
+	.scrolldiv{
+		height:20px;
+		width:1000px
+	}
+	/* #app > main > div.container-fluid > div > div > div.row.w-100.scroll-class > div
+	{
+		 transform: rotateX(180deg) !important;
+		-webkit-transform:rotateX(180deg) !important;
+	} */
+	#scroll-id
+	{
+		/* color:red !important;
+		background-color:red !important; */
+		transform: rotateX(180deg) !important;
+		-webkit-transform:rotateX(180deg) !important;
+
+	}
+
+			/* width */
+			.scroll-class::-webkit-scrollbar 
+			{
+				position:absolute !important;
+				top:100px;
+			width: 10px;
+			height:10px;
+			transform: rotateX(180deg) !important;
+					-webkit-transform:rotateX(180deg) !important;
+			}
+
+
+			/* Track */
+			.scroll-class::-webkit-scrollbar-track 
+			{
+			background: #f1f1f1;
+			transform: rotateX(180deg) !important;
+					-webkit-transform:rotateX(180deg) !important;
+			}
+
+			/* Handle */
+			.scroll-class::-webkit-scrollbar-thumb 
+			{
+			background: #888;
+			transform: rotateX(180deg) !important;
+					-webkit-transform:rotateX(180deg) !important;
+			}
+
+			/* Handle on hover */
+			.scroll-class::-webkit-scrollbar-thumb:hover 
+			{
+			background: #555;
+			transform: rotateX(180deg) !important;
+					-webkit-transform:rotateX(180deg) !important;
+			}
+			.modal{
+		position:fixed;
+		top:0;
+		left:0;
+		z-index: 1050;
+	}
+	.modal-backdrop {
+		display:none;
+		
+	}
+
+		.wrapper2{width: 100%; border: none 0px RED;
+		overflow-x: scroll; overflow-y:scroll;}
+	.wrapper1{width: 100%; border: none 0px RED;
+		overflow-x: scroll;}
+
+	 .wrapper1{height: 20px; }
+	 .wrapper2{height: 80vh; }
+	 .div1 {width:100%; height: 20px; }
+	 .div2 {width:100%; height: 400px;
+	  overflow: auto;}
+
+
+/*#NMR_list_paginate
+{
+    display: none !important;
+}*/

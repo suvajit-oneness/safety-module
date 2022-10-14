@@ -1,0 +1,79 @@
+.popup{
+  display: block;
+  position: absolute;
+  width: 125vh;
+  left: 30%;
+  top: 35%;
+  background: #fff;
+  display: none;
+  z-index: 99999;
+}
+.pop-shadow{
+  -webkit-box-shadow: 0 0 40px rgba(0,0,0,.4);
+  box-shadow: 0 0 40px rgba(0,0,0,.4);
+  background: #fff;
+  background-clip: padding-box;
+  border: 1px solid #e5e5e5;
+  border: rgba(0,0,0,0);
+  outline: 0;
+}
+.pop-header{
+  background: #efefef;
+  border: #ddd solid 1px;
+  position: relative;
+  display: block;
+}
+.pop-header:after{
+  clear:both;
+  height: 0px;
+  display:block;
+  content: "";
+}
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
+.pop-title{
+  display: block;
+  padding: 10px;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+.pop-control{
+  display: block;
+  padding: 10px;
+}
+.pop-close{
+  display: block;
+  font-weight: bold;
+  font-family: arial;
+  cursor: pointer;
+  display: inline-block;
+  color: #999;
+  font-size: 14px;
+}
+.pop-close:hover{
+  color: #444;
+}
+.main-content{
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  padding: 5px 10px;
+  overflow-x: scroll;
+  height: 60vh;
+}
+.main-content h1{
+  font-size: 28px;
+}
+.main-content p{
+  font-size: 16px;
+}
+.img-style{
+    /*width: 215%;*/
+}
+.scrollable{
+  overflow-x: scroll;
+  overflow-y: scroll;
+}

@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="841.68pt" height="595.2pt" viewBox="0 0 841.68 595.2">
+<g enable-background="new">
+<g>
+<g id="Layer-1" data-name="Artifact">
+<clipPath id="cp0">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M -.000000685 .00012207 L 841.68 .00012207 L 841.68 595.20016 L -.000000685 595.20016 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp0)">
+<g transform="matrix(.45198605,0,0,.40658827,226.2,11.999996)">
+<symbol id="im1" viewBox="0 0 861 85">
+<image width="861" height="85" xlink:href="data:image/jpeg;base64,
+/9j/4AAQSkZJRgABAQEAYABgAAD/4QBaRXhpZgAATU0AKgAAAAgABQMBAAUAAAAB
+AAAASgMDAAEAAAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAAOw1ESAAQAAAAB
+AAAOwwAAAAAAAYagAACxj//bAEMACAYGBwYFCAcHBwkJCAoMFA0MCwsMGRITDxQd
+Gh8eHRocHCAkLicgIiwjHBwoNyksMDE0NDQfJzk9ODI8LjM0Mv/bAEMBCQkJDAsM
+GA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy
+MjIyMjIyMjIyMv/AABEIAFUDXQMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAAAAAA
+AAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYT
+UWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVG
+R0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOk
+paanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T1
+9vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgv/xAC1EQACAQIE
+BAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEK
+FiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1
+dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfI
+ycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APfmztOO
+tcuvieS9vru30yxknjtWMZmc7VllX70S99w45PFdQxwpNcBf2mvaDrsMWgzWxsdT
+nkluJL5WfyJccYwRwemKAOn0LW4tc0/7TFFLA6uY5YJRh4nHUH1+vStXn1rxfQvi
+PeeHoLm21iylvbp72ZftiEIku08qoPOFrdX4wWJhZm06cSDpHuHP41m6sE7NnoUc
+rxdaHPThdfI9L60vNefWnxa0WYf6TDcWzehG7+VXv+Fn+F/+fuX/AL8tQqsO4pZX
+jYuzpv7rnZ9aTArjf+FoeGP+fuX/AL8tWra+LdCvLdZYtStwD2kkCkfgapTi9mZV
+MDiaavOm0vRm9RWV/wAJFpG0MdStMHv5opP+Ek0b/oJ2n/f5ad0Zewq/yv7jWoqt
+bXsF3EJbeaOVD/EjZFT7ucUzNpp2Y6ikzRmgQtFFFADhS01adQAUUUUAFFFFABRR
+RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAh6Vg+LbKG88O3JmEhW2xdARHBYx/M
+B+lbx6UxgCuGAK9wfSgDyrUdOXxSkttO8cJ1S0S+0i1KhWimC5kyfc4yK8nTeAyS
+jEsbGOT/AHlODj2r12TzdOvnjidL3WNIvwzTSDi3tJzkgfQCsD4r6Gmnavb65aIP
+st/hJ3DZBk/hwOwIrmrwvG66H0vDuY+wr+xm/dl+DOCzSg4HXmk7miuE/R+hLHHJ
+NII4kd3PRV5NRmNlbDIQw6grXR+Br6107xTb3N5KkUKqwZn6dK7K6+Jdl/bItrTS
+reW28wJ57YBPvjHStYwi43bseJi8wxFKu6dOlzJK972/NHlW31U/lQVA6r+lfTiQ
+WkkKyC3iIZcj5BXlOrePEt9Vntbjw/ZyRxPtIJwSPXpV1KCjvL8Dz8HntTFylGnQ
+vbfVf5HB2mpXtgytaXc0O05GxyBn6Vr/APCd+Jx/zGJvyX/Cun8S6f4b1bwi2taI
+kNtNCQZUXhj6qRmvNzWUuaGl/uPTwrw2Pi5zpJNOzTSujstO+JniKyZRLcJdR7ss
+JE+Yj0BHSvXvDniSz8SactzbPhhxLETyh9DXzfjPSu0+Gesf2d4nWCSYpDcrs2dm
+ftWtKvJSSlszy88yPDvDyq0Y8so66dT3cUtIPTNLXefn4q06mrTqACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKAEPSm049KbQBxviXSw2tRvJJBb6X
+qUD2moPnbJK5GIgD7c1m/wBm/wDCY/DR7F7QwXNqXgtvO6q0R2q/4gV03i/ThqHh
++Zltjc3FqRdW8WcbpU5WsfRr5YvFPkXU0hudcs1uhbjmOAou1wD9aTsOMnF3i7Mw
+dP8AhroOuaZbX1jf3KRum1ipDAuOG6+4NWP+FQacfu6ld+/yrXQ+C/slkup6DZpi
+LSrkxg5yTv8An/rXVYFZ+yp9j0451j4qyqs80/4U/Yf9BO6/75Wq138H4/Ib7Jqb
++bjjzVG39K9T49Kydf1ZtF0qS8Szmu3BAWOJckk/0odCnbVF085zGc1FVLt+hy13
+4/s/DEy6Nd2lzJPbRqjPGBtPHUZNc1ceC77xlcya9p80EFtdneiTA7l7c4rmNd/t
+rXdWm1C40m5jeXAKpC2OK6/wZ4zudFtYdL1PTbhLaNtqTLEfkz/eFc6mpy5Z7Hvy
+w0sFQVfCNe0a97VP1svUp/8ACpNbAwL60x6Zasy9+GviO1cCO1S5H96Nx/Wve0YO
+oYcgjIpcD0rV4aHQ8mHEuOjK8mn8j52fwN4lijZ30qUKBk4ZT/Wsu1mudH1W2uWh
+aOaGQOqyoR396+m9q+lZmqeH9L1iFo720STKlQ5HzKPY9RUSwv8AKzsp8UzknDEQ
+Ti+xcspxc2sMxxmRA3HTkVarA0CFtKL6O7p5cPNqGctI0fq2fet8dK6o3tqfL1Yp
+TdtunoKtOpq06mZhRRRQAUUUUAFFFFABRRRQAhrPv9X07S9n269gtvMztMsgXOOu
+M1oGs270i1vtQtLydSz2wcIuBtO4AHII9qHe2hUOTm9+9vIq/wDCYeHP+g3Yf+BC
+/wCNPg8UaFdTpBb6vZSTSHaiLOpZj6AA15t8S4YovGWirHGqKQuQqgA/PXpl1oll
+dtaOYhG1vKsyFAASRng8dOawpzlOTWmjPTxGEoUaNOrd++m+mljXorO1nU4dE0W7
+1K4/1VrE0hA6tgcAe5OB+Ncz8NPHDeOfDsl5cQx29/bztDcQR5AXupweeR+oNbrU
+8pnbUtec/FHxprfgezsb3TksJ4bq4FuYriFyUOCc7lcZ6dMV3ln9pFpGLuWKWfGW
+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
+JtQhHm2hlHyrIOhrZpHAZSDzkYoA4fw1NHB4puPs6PMusW63txcq2Y1mTCMi/iDX
+c5zXl8yHQLacMsun6b4dvxPCIzua7hfluPTc1emROJI1dc4YBhnrzzSQElFFFMAo
+xRRQAmKMUtFADSisMEAj0NVp9PtLqEwzQIyf3cYH6VbooGm1sZsOh6dbjEVqij0G
+aH0LTJGDPaIxBzzzWlRRYr2s73u/vFQADAp1NWnUEBRRRQAUUUUAFFFFABRRRQAU
+UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAU
+UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAU
+UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAULzS7O/ltZbq3SWS0lE0DkfNG44y
+D9OPer9FFABRRRQAUUUUAFFFFAFTULC21Oxlsr2ES20y7ZIySAw9DjtU0cSQxLHG
+irGgCqqjAAHQAVLRQAUUUUAFFFFABRRRQAUUUUAFFFFABTcUUUAGKMUUUAY174cs
+7/VXv5Wk897U2p5ymwnP3Txn3rUtrZLW3jhjLFEXA3HJ/OiigCXFGKKKADFGKKKA
+DFGKKKADFGKKKADFGKKKAFApaKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKAP//Z"/>
+</symbol>
+<use xlink:href="#im1" x="0" y="0" width="861" height="85"/>
+</g>
+</g>
+</g>
+<g id="Layer-1" data-name="P">
+<clipPath id="cp2">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.74 33.12 L 739.08 33.12 L 739.08 546.24 L 102.74 546.24 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp2)">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.26 384.07 L 620.85006 384.07 L 620.85006 475.654 L 102.26 475.654 Z " fill="#ff0000" fill-rule="evenodd"/>
+</g>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 620.74 384.07 L 738.72 384.07 L 738.72 475.654 L 620.74 475.654 Z " fill="#e7e6e6" fill-rule="evenodd"/>
+<clipPath id="cp3">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.74 33.12 L 739.08 33.12 L 739.08 546.24 L 102.74 546.24 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp3)">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.26 292.63 L 620.85006 292.63 L 620.85006 384.19 L 102.26 384.19 Z " fill="#ff6600" fill-rule="evenodd"/>
+</g>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 620.74 292.63 L 738.72 292.63 L 738.72 384.19 L 620.74 384.19 Z " fill="#e7e6e6" fill-rule="evenodd"/>
+<clipPath id="cp4">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.74 33.12 L 739.08 33.12 L 739.08 546.24 L 102.74 546.24 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp4)">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.26 201.17 L 620.85006 201.17 L 620.85006 292.754 L 102.26 292.754 Z " fill="#ff9900" fill-rule="evenodd"/>
+</g>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 620.74 201.17 L 738.72 201.17 L 738.72 292.754 L 620.74 292.754 Z " fill="#e7e6e6" fill-rule="evenodd"/>
+<clipPath id="cp5">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.74 33.12 L 739.08 33.12 L 739.08 546.24 L 102.74 546.24 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp5)">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.26 33.48 L 620.85006 33.48 L 620.85006 201.29 L 102.26 201.29 Z " fill="#ffff00" fill-rule="evenodd"/>
+</g>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 620.74 33.48 L 738.72 33.48 L 738.72 201.29 L 620.74 201.29 Z " fill="#e7e6e6" fill-rule="evenodd"/>
+</g>
+<clipPath id="cp6">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.74 506.14 L 620.73 506.14 L 620.73 520.32406 L 102.74 520.32406 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp6)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="11.16" font-family="Arial" font-weight="bold"><tspan y="-509.76" x="264.89 267.9925 276.05003 284.10755 287.21003 295.26756 302.71128 310.73533 317.55409 320.67887 328.7364 335.55516 343.12165 350.56538 358.0091 361.11158 367.93034 371.06629 379.1238 386.66798 393.48674 396.6115 405.24937 413.3069 416.40937 425.87306 433.42839 440.24714 448.30467 451.40715">INCIDENT CLASSIFICATION MATRIX</tspan></text>
+</g>
+</g>
+<clipPath id="cp7">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 620.74 506.14 L 738.6 506.14 L 738.6 520.32406 L 620.74 520.32406 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp7)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="8.4" font-family="Arial" font-weight="bold"><tspan y="-509.76" x="632.62 634.8964 640.0456 644.4892 649.1596 653.83 656.6272 658.8868 664.03598 668.70639 671.47836 673.75479 678.90396 684.0531 686.3295 691.9575 694.72109 699.3915 704.5491 709.69827 714.36868 717.6362 722.7686">Investigation Standards</tspan></text>
+</g>
+</g>
+<clipPath id="cp8">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 620.74 475.66 L 683.884 475.66 L 683.884 506.14 L 620.74 506.14 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp8)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.96" font-family="Arial" font-weight="bold"><tspan y="-487.06" x="631.18 633.11489 637.29788 641.01449 644.8564 648.6983 650.9812 652.9161 657.09909 660.941 663.2239 665.15878 669.34176 673.53866">Investigation </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.96" font-family="Arial" font-weight="bold"><tspan y="-478.06" x="643.66 647.8569 651.6988 655.4154 659.2573 661.1922">Level </tspan></text>
+</g>
+</g>
+<clipPath id="cp9">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 683.88 475.66 L 738.6 475.66 L 738.6 506.14 L 683.88 506.14 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp9)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.96" font-family="Arial" font-weight="bold"><tspan y="-487.06" x="694.8 699.82516 701.76 705.9569 709.7988 713.64077 715.92367 721.3385 725.5215 727.8044">Close-Out </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.96" font-family="Arial" font-weight="bold"><tspan y="-478.06" x="696.12 701.0408 705.2377 707.52059 711.71749 715.91439 718.67056 720.6054 722.86746">Authority</tspan></text>
+</g>
+</g>
+<clipPath id="cp10">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 683.88 109.82 L 738.6 109.82 L 738.6 292.75 L 683.88 292.75 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp10)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-199.37" x="702.96 707.52017 709.31369 714.23629">D/GM</tspan></text>
+</g>
+</g>
+<clipPath id="cp11">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 467.11 384.19 L 543.93399 384.19 L 543.93399 475.654 L 467.11 475.654 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp11)">
+<g id="Layer-1" data-name="P">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-444.58" x="468.55 470.70603 472.49955 476.69715 480.17607 482.68824 486.16716 487.96067 491.43959 494.9185 497.43067 499.22419 503.0656 506.90705 510.38597 512.1795 516.021 519.4999 525.15396 528.6201 532.4616 535.9405">- Very serious damage </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-436.3" x="468.55 472.39143 474.9036 476.6971 478.49064 482.33207 485.81098 489.2899 491.0834 493.23945 497.08088 498.8744 502.3533 505.8322 509.31114 512.79006 516.2689 518.06246 519.85598 521.6495">or loss to vessel / </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-428.02" x="468.55 472.0289 475.87034 479.71177 481.50529 485.3467 491.00077 494.46699 498.3084 500.46446 502.25798 504.05149 505.845 509.3239 512.8028 515.315 519.1565 522.998 524.7915 529.94308 531.7366 533.8926 537.7341">equipment / cargo with </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-419.74" x="468.55 472.39143 474.18495 476.6971 480.17604 483.65495 485.81098 487.6045 491.0834 494.92485 498.40376 500.55979 502.3533 508.00736 511.83607 514.34829 517.82717 519.62069 521.7767 525.61819 529.09707 532.93856">direct cost more than </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-411.46" x="468.55 472.0289 473.82243 477.30134 480.78025 484.25917 486.05268 489.5316 493.0105 496.4894 498.28294 502.84306 507.04066 511.60078">2,000,000 USD </tspan></text>
+</g>
+</g>
+<clipPath id="cp12">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 543.94 384.19 L 620.74 384.19 L 620.74 475.654 L 543.94 475.654 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp12)">
+<g id="Layer-1" data-name="P">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-428.02" x="548.14 549.93356 553.775 555.931 559.4099 561.9221 565.7636 569.2425 571.3985 573.192 577.0335 580.875 584.3539 586.1474 587.9409 592.50106 596.3425 599.8214 603.3003 605.8125 609.2914 613.1329">International Coverage</tspan></text>
+</g>
+</g>
+<clipPath id="cp13">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 159.86 475.66 L 236.68399 475.66 L 236.68399 506.14 L 159.86 506.14 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp13)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.96" font-family="Arial" font-weight="bold"><tspan y="-478.06" x="188.09 192.76016 196.60208 198.88495 202.72687 205.00974">Safety</tspan></text>
+</g>
+</g>
+<clipPath id="cp14">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 236.69 475.66 L 313.49 475.66 L 313.49 506.14 L 236.69 506.14 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp14)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.96" font-family="Arial" font-weight="bold"><tspan y="-478.06" x="264.65 269.6751 273.54487 277.37287 279.30775 281.56974">Health</tspan></text>
+</g>
+</g>
+<clipPath id="cp15">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 313.49 475.66 L 390.314 475.66 L 390.314 506.14 L 313.49 506.14 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp15)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.96" font-family="Arial" font-weight="bold"><tspan y="-478.06" x="330.89 335.56019 339.75706 343.4737 345.40858 348.14384 352.3407 356.53758 362.7737 366.61564 370.8125">Environment</tspan></text>
+</g>
+</g>
+<clipPath id="cp16">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 390.31 475.66 L 467.11 475.66 L 467.11 506.14 L 390.31 506.14 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp16)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.96" font-family="Arial" font-weight="bold"><tspan y="-478.06" x="392.11 396.78016 399.5363 403.73316 407.57508 411.417 415.2589 419.10084 421.0357 425.21867 429.41554 433.25746 437.09938 439.03425 440.94129 442.87617 447.0591 450.90104 452.8359 454.74296 458.93983 461.69596">Process Loss / Failure</tspan></text>
+</g>
+</g>
+<clipPath id="cp17">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 467.11 475.66 L 543.93399 475.66 L 543.93399 506.14 L 467.11 506.14 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp17)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.96" font-family="Arial" font-weight="bold"><tspan y="-487.06" x="479.23 484.15074 487.99266 491.83457 495.67649 497.95939 499.89427 501.8013 503.73619 508.39244 511.14857 515.34548 519.54238 523.3843 526.14047 528.42337 532.02169">Asset / Property </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.96" font-family="Arial" font-weight="bold"><tspan y="-478.06" x="492.19 497.21513 501.08488 507.30015 511.14207 515.3389">Damage</tspan></text>
+</g>
+</g>
+<clipPath id="cp18">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.74 384.19 L 159.86 384.19 L 159.86 475.654 L 102.74 475.654 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp18)">
+<g id="Layer-1" data-name="P">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="8.4" font-family="Arial" font-weight="bold"><tspan y="-427.18" x="111.14 115.8104 118.1036 123.7316 128.402 131.17398 134.41637 139.08676 146.55437">5 Extreme</tspan></text>
+</g>
+</g>
+<clipPath id="cp19">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 159.86 384.19 L 236.68399 384.19 L 236.68399 475.654 L 159.86 475.654 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp19)">
+<g id="Layer-1" data-name="P">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-428.02" x="161.3 163.45604 165.24956 170.64284 174.48427 176.27779 178.43383 180.22734 184.06877 185.86229 189.34122 191.13474 194.97617 198.4551 200.61113 204.09006 205.88358 207.6771 209.83313 211.62665 215.10558">- Multiple Fatalities</tspan></text>
+</g>
+</g>
+<clipPath id="cp20">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 236.69 384.19 L 313.49 384.19 L 313.49 475.654 L 236.69 475.654 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp20)">
+<g id="Layer-1" data-name="P">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-432.1" x="238.13 240.28604 242.07956 247.47284 251.31427 253.10779 255.26383 257.05735 260.89878 262.6923 266.1712 267.96473 271.80616 275.28507 278.76399 280.5575 282.71354 286.55497 288.711 291.22319 294.7021 296.4956 299.97453 302.13056 305.60948 309.4509">- Multiple health-related </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-423.82" x="238.13 240.28604 243.76497 245.921 249.39994 251.19345 252.98697 255.143">fatality</tspan></text>
+</g>
+</g>
+<clipPath id="cp21">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 313.49 384.19 L 390.314 384.19 L 390.314 475.654 L 313.49 475.654 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp21)">
+<g id="Layer-1" data-name="P">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-448.66" x="314.93 317.08604 318.87956 322.72099 326.5624 330.40385 334.24528 336.4013 338.55735 342.03627 344.54844 350.20249 351.97056 353.78315 359.4372 363.2659 366.7448 370.22373">- Long-term impact</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-440.38" x="314.93 317.08604 318.87956 322.72099 326.1999 329.6788 331.83485 333.62837 337.4698 341.31123 343.10475 344.89826 350.5523 354.381 357.85993 359.65345 362.16563 367.81968 371.2859 375.12733 377.28337 379.07688 382.9183 385.07435">- Lasting impairment of </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-432.1" x="314.93 318.4089 321.88783 325.72926 329.20817 332.68708 336.166 338.32203 341.80094 347.455 349.22306 351.3918 355.23326 359.07469 362.5536 364.70964 366.50315 370.34458">ecosystem function</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-423.82" x="314.93 317.08604 318.87956 324.76255 326.55607 330.3975 333.8764 337.35533 341.19676 343.70893 347.18785 350.66676 354.50819 356.3017 359.7806 361.93666 364.09269 367.5716 371.0505">- Widespread effect</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-415.54" x="314.93 317.08604 318.87956 323.07716 326.55607 330.03498 333.5139 336.02607 339.50498 341.2985 343.092 348.74607 352.57478 356.05369 359.5326 361.68864 363.48216 365.63819 369.4796">- Severe impact to </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-407.26" x="314.93 318.4089 321.88783 325.72926 329.20817 331.00169 333.1577 334.95124 338.43016 341.90907 343.70259 347.1815 349.69367 353.17259">sensitive area</tspan></text>
+</g>
+</g>
+<clipPath id="cp22">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 390.31 384.19 L 467.11 384.19 L 467.11 475.654 L 390.31 475.654 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp22)">
+<g id="Layer-1" data-name="P">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-444.58" x="391.75 393.90605 395.69956 399.89717 403.37608 405.88825 409.36717 411.16069 414.6396 418.1185 420.63069 422.4242 426.26564 430.10707 433.58598">- Very serious </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-436.3" x="391.75 395.59144 399.43287 402.91178 405.42396 408.90287 411.0589 412.85243 416.69386 420.53529 424.0142 425.8077 427.60124 429.75727 433.23619 435.0297 436.8232 440.66465 443.17683 446.65574">operational failure </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-428.02" x="391.75 394.26219 397.7411 401.22 405.06144 406.85496 409.011 410.8045 414.64595 418.48738 420.28089 422.0744 425.91584 427.70936 431.18827 435.0297 436.8232 440.66465 442.45817 446.2996 449.7785 451.57203 455.41346 459.25489">resulting in ship being </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-419.74" x="391.75 393.90605 397.38496 400.86387 404.34278 408.1842 409.97773 413.81916 417.66059 419.81663 421.61015 425.45158 427.6076 429.40113 432.88005 436.35896 438.87113 442.35005 444.14356 447.62248 451.10139 452.8949 455.05094 458.89237 461.40455">taken out of service for </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-411.46" x="391.75 395.46424 397.2641 400.743 404.22193 406.01545 409.85688 413.3358 416.8147 420.2936">&#x003e; 30 days </tspan></text>
+</g>
+</g>
+<clipPath id="cp23">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 543.94 475.66 L 620.74 475.66 L 620.74 506.14 L 543.94 506.14 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp23)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.96" font-family="Arial" font-weight="bold"><tspan y="-487.06" x="554.02 559.8942 563.73617 567.93307 569.8679 573.6959 575.6308 580.65597 584.85287 588.56948 592.4114 595.16757 599.00949 603.20639 607.0483 608.98318 610.8902">Media Coverage / </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.96" font-family="Arial" font-weight="bold"><tspan y="-478.06" x="556.06 560.73019 564.92709 569.12399 571.05886 572.9659 576.8078 578.7427 583.6495 585.9324 588.2153 592.0572 596.2541 598.537 600.47189 604.65487">Public Attention</tspan></text>
+</g>
+</g>
+<clipPath id="cp24">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 467.11 201.29 L 543.93399 201.29 L 543.93399 292.754 L 467.11 292.754 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp24)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-265.73" x="468.55 470.70603 472.49955 477.89283 481.73426 485.57569 489.0546 491.56678 495.0457 497.20173 500.68064 502.47416 506.31559 509.7945 515.44857 518.91476 522.7562 526.2351 528.0286 531.8701 534.3823">- Moderate damage or </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-257.45" x="468.55 470.3435 474.18495 477.66386 481.14277 482.93629 485.09233 488.93376 490.72727 494.20619 497.6851 501.164 504.6429 508.12184 509.91535 511.70887 513.5024">loss to vessel / </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-249.17" x="468.55 472.0289 475.87034 479.71177 481.50529 485.3467 491.00077 494.46699 498.3084 500.46446 502.25798 504.05149 505.845 509.3239 512.8028 515.315 519.1565 522.998 524.7915 529.94308 531.7366 533.8926 537.7341">equipment / cargo with </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-240.89" x="468.55 472.39143 474.18495 476.6971 480.17604 483.65495 485.81098 487.6045 491.0834 494.92485 498.40376 500.55979 502.3533 506.19474 509.67366 511.82969 516.98129 520.46017 523.939 527.7805">direct cost between </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-232.61" x="468.55 472.0289 475.5078 478.98674 480.78025 484.25917 487.73808 491.21699 493.0105 496.4894 500.33085 504.17228 505.9658 509.4447 512.9236 516.40249 518.196 521.67489 525.15377 528.6326">200,000 and 500,000 </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-224.33" x="468.55 473.1101 477.3077 481.86784 483.66136">USD  </tspan></text>
+</g>
+</g>
+<clipPath id="cp25">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 543.94 201.29 L 620.74 201.29 L 620.74 292.754 L 543.94 292.754 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp25)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-245.09" x="553.9 558.46017 561.939 565.7805 567.57406 571.4155 575.257 578.7359 580.5294 582.32296 586.88308 590.72457 594.2034 597.6823 600.1945 603.6734 607.5149">Regional Coverage</tspan></text>
+</g>
+</g>
+<clipPath id="cp26">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 467.11 292.75 L 543.93399 292.75 L 543.93399 384.19 L 467.11 384.19 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp26)">
+<g id="Layer-1" data-name="P">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-353.11" x="468.55 470.70603 472.49955 477.89283 481.37174 483.16526 487.00669 489.51887 491.31239 495.1538 498.63273 504.28678 507.753 511.59443 515.0733 516.8668 520.7083 523.2205 525.01406 526.80758 530.64907 534.1279 537.6068">- Major damage or loss </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-344.83" x="468.55 470.70603 474.54747 476.34098 479.8199 483.2988 486.7777 490.25663 493.73554 495.52906 497.32258 499.1161 500.9096 504.38853 508.22996 512.0714 513.8649 517.7064 523.3605 526.82669 530.66818 532.82418 534.6177 536.4112">to vessel / equipment / </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-336.55" x="468.55 472.0289 475.5078 478.02 481.86143 485.70286 487.49638 492.64799 494.4415 496.59754 500.43898 502.23249 506.0739 507.86744 510.3796 513.8585 517.3374 519.4934 521.2869 524.7658 528.6073 532.0862 534.2422">cargo with direct cost </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-328.27" x="468.55 472.39143 475.87034 478.02638 483.17799 486.6569 490.1358 493.97724 495.77076 499.24967 502.72859 506.2075 508.001 511.47993 514.9588 518.4377 520.2312 523.7101 527.5516 531.39309">between 500,000 and </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-319.99" x="468.55 472.0289 473.82243 477.30134 480.78025 484.25917 486.05268 489.5316 493.0105 496.4894 498.28294 502.84306 507.04066 511.60078">2,000,000 USD </tspan></text>
+</g>
+</g>
+<clipPath id="cp27">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 543.94 292.75 L 620.74 292.75 L 620.74 384.19 L 543.94 384.19 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp27)">
+<g id="Layer-1" data-name="P">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-336.55" x="554.74 559.3001 562.779 564.935 566.7285 570.57 574.4115 577.8904 579.6839 581.4774 586.03756 589.879 593.3579 596.8368 599.349 602.8279 606.6694">National Coverage</tspan></text>
+</g>
+</g>
+<clipPath id="cp28">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.74 292.75 L 159.86 292.75 L 159.86 384.19 L 102.74 384.19 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp28)">
+<g id="Layer-1" data-name="P">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="8.4" font-family="Arial" font-weight="bold"><tspan y="-335.71" x="116.42 121.0904 123.3836 130.4564 135.1268 137.5292 142.6784">4 Major</tspan></text>
+</g>
+</g>
+<clipPath id="cp29">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 159.86 292.75 L 236.68399 292.75 L 236.68399 384.19 L 159.86 384.19 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp29)">
+<g id="Layer-1" data-name="P">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-344.83" x="161.3 163.45604 165.24956 169.44716 171.24068 175.0821 178.92354 180.71706 184.19599 185.9895 188.14554 191.62447 193.7805 197.25943 199.05295 200.84647 203.0025 206.48143 208.27495 210.06847 213.5474 217.02632 220.50525 223.98418 226.49639 229.97531 231.76883">- Single fatality, severe, </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-336.55" x="161.3 165.14144 168.62036 171.13257 176.7866 180.2528 184.09424 187.57317 191.4146 193.57064 195.36415 197.15767 198.95119 202.79262 206.27155 208.78376 210.93979 212.7333 216.21224 218.00576">permanent / partial </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-328.27" x="161.3 165.14144 166.93495 170.41388 173.8928 177.73424 179.52776 181.32128 183.11479 185.27083 188.74976">disability </tspan></text>
+</g>
+</g>
+<clipPath id="cp30">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 236.69 292.75 L 313.49 292.75 L 313.49 384.19 L 236.69 384.19 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp30)">
+<g id="Layer-1" data-name="P">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-340.63" x="238.13 240.28604 242.07956 246.27716 248.07068 251.91211 255.75354 257.54707 261.02598 262.8195 266.66093 270.13984 273.61875 275.41227 277.5683 281.40974 283.56578 286.07795 289.55686 291.35038 294.82929 296.98533 300.46424 304.30567">- Single health-related </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-332.35" x="238.13 240.28604 243.76497 245.921 249.39994 251.19345 252.98697 255.143">fatality</tspan></text>
+</g>
+</g>
+<clipPath id="cp31">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 313.49 292.75 L 390.314 292.75 L 390.314 384.19 L 313.49 384.19 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp31)">
+<g id="Layer-1" data-name="P">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-353.11" x="314.93 317.08604 318.87956 324.27284 327.75175 331.59318 333.3867 337.22813 342.88218 344.65025 346.819 350.66044 352.45396 354.24748 358.0889 361.93034 365.77177 367.9278 370.08384 373.56275 376.07493 381.72898">- Medium to long-term </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-344.83" x="314.93 316.7235 322.37757 326.20628 329.68519 333.1641 335.32014">impact </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-336.55" x="314.93 317.08604 318.87956 323.07716 326.91859 332.57264 336.03886 337.83238 339.6259 345.27995 349.10865 352.58757 354.38108 356.89326 362.5473 366.01353 369.85496 372.011 373.8045 377.64595 379.80198">- Some impairment of </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-328.27" x="314.93 318.4089 321.88783 325.72926 329.20817 332.68708 336.166 338.32203 341.80094 347.455 349.22306 351.3918 355.23326 359.07469 362.5536 364.70964 366.50315 370.34458 374.186">ecosystem function </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-319.99" x="314.93 317.08604 318.87956 322.72099 326.1999 328.71208 332.5535 336.0324 337.82594 341.30485 343.81703 347.29594 350.77485 352.56837 356.04728 358.2033 360.35935 363.83827 367.31718 369.4732 372.95213 376.79356">- Large area affected </tspan></text>
+</g>
+</g>
+<clipPath id="cp32">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 390.31 292.75 L 467.11 292.75 L 467.11 384.19 L 390.31 384.19 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp32)">
+<g id="Layer-1" data-name="P">
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-365.47" x="391.75 393.90605 395.69956 401.09284 404.57176 406.36528 410.2067 412.71888 414.5124 418.35383 422.19526 425.67417 428.18635 431.66526 433.8213 435.6148 439.45625 443.29768 446.77659 448.5701">- Major operational </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-357.19" x="391.75 393.90605 397.38496 399.17848 400.972 404.81343 407.3256 410.8045 412.59803 415.1102 418.5891 422.06803 425.90946 427.70298 429.859 431.65254 435.49397 439.3354 441.1289 442.92243 446.76387 448.55738 452.0363 455.87773 457.67124 461.51268">failure resulting in ship </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-348.91" x="391.75 395.59144 399.07035 400.86387 404.7053 408.54673 410.34025 412.49629 415.9752 419.4541 422.933 426.77445 428.56797 432.4094 436.25083 438.40687 440.20039 444.0418 446.19786">being taken out of </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-340.63" x="391.75 395.2289 398.70783 401.22 404.6989 406.49244 409.97135 413.45027 415.24378 419.0852 422.56413 424.72016 429.87178 433.35069 436.8296 440.67103 442.46455 445.94346 449.42237 451.21589 454.6948 458.53623 462.37767">service between 15 and </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-332.35" x="391.75 395.2289 398.70783 400.50135 404.34278 407.8217 411.3006 414.7795">30 days </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-324.07" x="391.75 393.90605 395.69956 399.89717 404.09477 408.65489 410.4484 414.28984 417.76875 419.92478 423.4037 427.24513 429.40116 431.19468 435.0361 438.87754">- PSC detention </tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-315.79" x="391.75 393.90605 395.69956 397.49308 401.69068 407.08396 408.87748 414.53153 417.99775 419.79127 423.6327 426.14488 427.9384 431.77983 435.62126 439.46269">- ISM major non-</tspan></text>
+<text fill="#ffffff" xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-307.51" x="391.75 395.2289 399.07035 402.91178 405.0678 408.90925 411.42143 417.07548 418.84355 421.0123 424.4912">conformity </tspan></text>
+</g>
+</g>
+<clipPath id="cp33">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 159.86 33.6 L 236.68399 33.6 L 236.68399 109.824 L 159.86 109.824 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp33)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-78.024" x="161.3 163.45604 165.24956 169.09099 173.53028 178.0904 179.88391 182.03995 185.88138 187.6749 190.1871 193.66603 195.82207 197.61559 202.05487 203.84839 207.68982 209.48334 214.04346 217.52239 221.00131 224.48024 226.63628 228.4298">- FAC (First Aid Case), </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-69.744" x="161.3 166.69329 170.53472 175.09484 176.88835 179.04439 184.43767 187.9166 191.75803 193.55155 197.03047 200.5094 202.30292 204.09644 207.93787 210.45008 213.929 217.40793 219.56397 225.218 228.6842 232.52564 234.68167">MTC (Medical Treatment </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-61.44" x="161.3 165.86013 169.33905 172.81798 176.2969 178.45294">Case) </tspan></text>
+</g>
+</g>
+<clipPath id="cp34">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 236.69 33.6 L 313.49 33.6 L 313.49 109.824 L 236.69 109.824 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp34)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-82.224" x="238.13 240.28604 242.07956 246.63968 250.1186 253.59754 255.39105 257.5471 261.38853 263.18205 267.02348 269.53565 273.01457 276.49348 278.6495 284.30357 287.76979 291.6112 293.76725">- Health Treatment </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-73.944" x="238.13 243.05265 246.89408 250.7355 254.57694 258.05586 260.56803 264.40946 266.20298 270.7631 274.242 277.72093 281.19984 282.99336 285.14939 289.7095 293.55094 298.47358 303.0337 305.18974 306.98326 308.77677">Onboard Case (HTOC) / </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-65.664" x="238.13 242.3276 246.16904 248.32508 251.804 255.64543 257.80146 259.59498 263.07389 264.8674 266.66093 271.58357 275.06248 278.54139 282.3828 286.22425 289.70317 291.8592 293.6527 297.49415 301.33558 304.81449 306.608">Potential Occupational </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-57.36" x="238.13 242.69013 246.16905 249.64798 251.4415 253.59754 257.43898 259.23249 261.026 264.86744 268.34635 270.13987 273.9813 277.4602 281.30165 283.45768 285.2512 287.40724 291.60484 296.52748 301.0876 302.8811 305.03715 306.83067">Health Incident (POHI)  </tspan></text>
+</g>
+</g>
+<clipPath id="cp35">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 313.49 33.6 L 390.314 33.6 L 390.314 109.824 L 313.49 109.824 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp35)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-78.024" x="314.93 317.08604 318.87956 322.72099 326.5624 331.71403 333.50755 335.30107 340.9551 344.7838 348.26274 351.74165 353.89768 355.6912 360.8428 362.63633 364.79237 368.6338 370.4273 374.26875 378.11018">- Low impact with no </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-69.744" x="314.93 316.7235 320.20243 323.68135 325.83738 327.6309 331.47233 335.31376 337.10728 340.58619 342.74223 344.89826 348.37718 351.85609 354.01213">lasting effect </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-61.44" x="314.93 317.08604 318.87956 324.27284 326.06636 329.90779 331.7013 337.35536 340.82157 342.61509 344.4086 347.8875 350.3997 353.8786 357.3575 359.15104 362.62995 366.10887 369.9503 373.79173 377.27064 380.74955 384.59098">- Minimal area exposed </tspan></text>
+</g>
+</g>
+<clipPath id="cp36">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 390.31 33.6 L 467.11 33.6 L 467.11 109.824 L 390.31 109.824 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp36)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-73.944" x="391.75 393.90605 395.69956 400.25968 404.1011 406.25715 409.73606 413.57749 415.371 418.8499 420.64344 422.43696 426.27839 429.7573 431.5508 435.39225 438.87117 442.7126 444.86863 446.66215 451.81376 453.60728 455.7633 459.60475 461.39826">- Notable incident with  </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-65.664" x="391.75 395.59144 399.43287 401.22639 403.0199 408.67396 412.50267 415.98158 419.46049 421.61653 423.41004 427.25148 431.0929 432.8864 436.72785 440.56929 444.0482 446.56037 450.03929 452.1953 453.98884 457.83027 461.6717 465.1506">no impact on operations </tspan></text>
+</g>
+</g>
+<clipPath id="cp37">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.74 201.29 L 159.86 201.29 L 159.86 292.754 L 102.74 292.754 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp37)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="8.4" font-family="Arial" font-weight="bold"><tspan y="-244.25" x="111.74 116.4104 118.7036 125.7764 130.4468 135.6044 137.8808 143.03">3 Medium</tspan></text>
+</g>
+</g>
+<clipPath id="cp38">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 159.86 201.29 L 236.68399 201.29 L 236.68399 292.754 L 159.86 292.754 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp38)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-253.37" x="161.3 163.45604 165.24956 169.09099 172.93242 176.41135 178.56739 180.3609 184.20233 185.99585 191.64989 195.11609 196.9096 198.70313 202.54456 204.33808 208.1795 210.69171 214.17064 215.96416 218.1202 221.96163 225.80306 227.59658 229.75261 231.54613">- Lost Time Injury (LTI), </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-245.09" x="161.3 166.95404 170.78276 174.62419 178.10312 180.61533 184.09426 186.25029 189.72922 191.52274 195.36417 198.8431 201.3553 207.00934 210.47554 214.31697 217.7959 221.63733 223.79337">moderate permanent </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-236.81" x="161.3 165.14144 168.62036 171.13257 173.2886 175.08213 178.56105 180.35457 182.14809 185.98952 187.78304 191.26197 194.74089 198.58232 200.37584 202.16936 203.96288 206.11891 209.59784">partial disability </tspan></text>
+</g>
+</g>
+<clipPath id="cp39">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 236.69 201.29 L 313.49 201.29 L 313.49 292.754 L 236.69 292.754 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp39)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-249.17" x="238.13 240.28604 242.07956 246.63968 250.1186 253.59754 255.39105 257.5471 261.38853 263.18205 267.74217 271.22108 275.0625 278.5414 280.69746 283.20964 285.00315 288.48207 290.6381 292.4316 296.27305 300.11448">- Health Repatriation </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-240.89" x="238.13 242.69013 246.16905 249.64798 253.1269 254.92043 257.07646 261.63658 266.1967 270.7568 272.91285">Case (HRC) </tspan></text>
+</g>
+</g>
+<clipPath id="cp40">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 313.49 201.29 L 390.314 201.29 L 390.314 292.754 L 313.49 292.754 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp40)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-261.65" x="314.93 317.08604 318.87956 323.07716 326.91859 330.76 333.2722 335.42823 337.22175 339.37779 343.2192 345.01274 350.66679 354.133 357.97444 359.76795 363.60939 369.26344 371.4004 373.55644 377.03535 379.54753 385.20158">- Short to medium-term </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-253.37" x="314.93 316.7235 322.37757 326.20628 329.68519 333.1641 335.32014">impact </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-245.09" x="314.93 317.08604 318.87956 322.72099 326.5624 330.04133 333.52024 335.31376 337.10728 340.58619 343.09837 346.57728 350.05619 351.8497 355.3286 357.48466 359.6407 363.1196 366.5985 368.75456 372.23347 376.0749">- Local area affected </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-236.81" x="314.93 317.08604 318.87956 323.43968 327.2811 329.43714 331.23066 334.70957 336.8656 339.02165 342.50056 345.97947 348.1355 349.92903 353.77046 357.61189">- Not affecting </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-228.53" x="314.93 318.4089 321.88783 325.72926 329.20817 332.68708 336.166 338.32203 341.80094 347.455 349.22306 351.3918 355.23326 359.07469 362.5536 364.70964 366.50315 370.34458 374.186">ecosystem function </tspan></text>
+</g>
+</g>
+<clipPath id="cp41">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 390.31 201.29 L 467.11 201.29 L 467.11 292.754 L 390.31 292.754 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp41)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-265.73" x="391.75 393.90605 395.69956 401.09284 404.93428 408.7757 412.2546 414.76679 418.2457 420.40174 423.88066 425.67417 429.5156 433.35704 436.83595 439.3481 442.82704 444.98307 446.77659 450.618 454.45945 457.93836 459.73188">- Moderate operational </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-257.45" x="391.75 393.90605 397.38496 399.17848 400.972 404.81343 407.3256 410.8045 412.59803 415.1102 418.5891 422.06803 425.90946 427.70298 429.859 431.65254 435.49397 439.3354 441.1289 442.92243 446.76387 448.55738 452.0363 455.87773 457.67124 461.51268">failure resulting in ship </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-249.17" x="391.75 395.59144 399.07035 400.86387 404.7053 408.54673 410.34025 412.49629 415.9752 419.4541 422.933 426.77445 428.56797 432.4094 436.25083 438.40687 440.20039 444.0418 446.19786">being taken out of </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-240.89" x="391.75 395.2289 398.70783 401.22 404.6989 406.49244 409.97135 413.45027 415.24378 419.0852 422.56413 424.72016 429.87178 433.35069 436.8296 440.67103 442.46455 445.94346 447.73698 451.21589 455.0573 458.89875">service between 1 and </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-232.61" x="391.75 395.2289 398.70783 400.50135 404.34278 407.8217 411.3006 414.7795">15 days </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-224.33" x="391.75 393.90605 395.69956 399.541 401.3345 404.81343 408.65486 410.44837 414.64598 416.802 420.2809 422.43696 425.91587 427.70939 432.2695 435.7484 437.90446 441.38337 445.2248 447.38084 449.17436 453.01579 456.8572">- Flag State Detention </tspan></text>
+</g>
+</g>
+<clipPath id="cp42">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.74 531 L 738.6 531 L 738.6 546.24 L 102.74 546.24 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp42)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="12.6" font-family="Arial" font-weight="bold"><tspan y="-534.6" x="271.73 280.8272 288.52583 295.49363 303.19224 307.38804 314.33067 319.23207 322.73487 329.69007 333.19288 336.64527 345.40226 353.10087 360.79948 367.7169 374.6721 378.1749 385.11753 388.62034 392.81614 396.28114 399.78395 407.44474 414.39994 417.90275 425.56355 432.51875 440.21736 444.41316 447.91596 457.01316 460.51597 467.43339 474.38859 481.34379 484.8466 489.0424 492.5074 499.4626 506.4178 510.6136 514.1164 521.815 529.4632 532.966 543.38619 550.3414 554.5372 559.4386 562.9414">Chapter 1, Annex 1 - Incident Classification Matrix</tspan></text>
+</g>
+</g>
+<clipPath id="cp43">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 543.94 33.6 L 620.74 33.6 L 620.74 109.824 L 543.94 109.824 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp43)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-69.744" x="563.02 567.58016 571.42166 573.21517 577.77529 581.61679 585.09567 588.5745 591.08676 594.5656 598.4071">No Coverage</tspan></text>
+</g>
+</g>
+<clipPath id="cp44">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 620.74 33.6 L 683.884 33.6 L 683.884 292.75 L 620.74 292.75 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp44)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-206.81" x="640.06 644.6201 648.099 650.255 653.7339 655.5274 657.3209 660.7998 664.6413">Detailed </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-198.53" x="628.3 630.0935 633.935 637.4139 640.89279 644.37167 646.52767 648.32119 652.16268 655.64157 657.79757 659.59109 663.43258 667.27407 669.06759 672.90908 676.38796">investigation by </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-190.25" x="624.58 627.0922 630.5711 632.3646 635.8435 639.3224 642.8013 646.64279 648.79879 650.5923 654.07119 657.91268 659.7062 663.54769 665.3412 667.4972 670.9761 674.45498 680.109">relevant ship team </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-181.97" x="628.9 634.0516 635.8451 638.0011 641.8426 643.6361 647.115 650.5939 654.07278 655.8663 659.34518 661.50119 664.98007 668.82156 672.3004 675.7793">with assistance </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-173.66" x="623.5 625.656 628.1682 632.0097 637.66378 639.4318 642.9298 646.7713 650.6128 653.125 656.6039 658.3974 660.5534 664.0323 667.51119 673.1652 674.9333 678.7938 681.306">from shore team or </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-165.38" x="622.78 624.93606 628.7775 630.57107 633.08328 636.92477 638.71829 642.55978 646.03866 648.55087 650.70687 654.1857 655.97927 660.1769 663.65579 666.16799 669.64688 671.44039 674.91928 678.39816 681.877">third party Services </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-157.1" x="625.66 629.13888 632.61776 634.41128 638.25277 641.7316 645.2105 648.6894 652.1683 655.64718 659.12606 661.63827 665.1171 666.91067 668.70419 673.6268 679.02">as necessary. GM </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-148.82" x="631.3 636.95407 640.4202 643.8991 645.6926 649.5341 653.013 656.4919 658.2854 662.1269 665.6058 667.3993 669.5553 673.3968">may decide to </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-140.54" x="630.34 633.8189 637.2978 640.7767 642.5702 646.4117 650.2532 652.0467 655.5256 657.3191 660.798 664.63949 668.48098 670.99319 674.47207">assign a shore </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-132.26" x="624.58 626.37356 630.215 633.6939 637.1728 640.6517 642.8077 644.6012 648.4427 651.9216 654.0776 655.8711 659.7126 663.5541 665.3476 667.5036 670.9825 674.46139 680.1154">investigation team </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-123.98" x="631.42 636.57156 640.413 643.8919 647.7334 649.5269 653.3684 656.8473 660.3262 665.9802 669.4464 673.2879">when deemed </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-115.7" x="636.1 639.94149 643.42037 646.89926 650.3781 653.857 657.3359 660.81478 663.32699 666.80587 668.59939">necessery. </tspan></text>
+</g>
+</g>
+<clipPath id="cp45">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 620.74 292.75 L 683.884 292.75 L 683.884 475.65 L 620.74 475.65 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp45)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-398.86" x="626.38 630.2215 634.063 635.8565 637.65 639.44357 641.23709 645.07858 648.55746 652.0363 655.5152 657.6712 659.4647 663.3062 666.7851 668.9411 670.7346 674.5761 678.4176">Full Investigation </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-390.55" x="626.86 630.7015 634.18038 635.9739 639.45278 643.29428 647.13577 649.64797 653.12686 654.92037 657.07638 660.55526 664.0341 669.6882 671.45626 675.3168 677.829">by shore team or </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-382.27" x="625.06 628.9015 632.3804 634.8926 638.37149 642.21298 646.05447 648.21047 651.68936 653.84536 655.63888 660.7904 664.6319 668.4734 670.2669 673.7458 676.258 679.7369">person(s) who are </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-373.99" x="624.1 625.8935 629.735 633.5765 637.05538 640.89688 644.37576 648.2172 652.0587 655.5376 659.3791 661.5351 663.3286 665.4846 669.3261 671.1196 673.27566 677.1171 680.596">independent to the </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-365.71" x="636.7 640.1789 644.0204 645.8139 649.6554 651.4489 653.6049 657.0838 660.5627 666.21676">ship team.</tspan></text>
+</g>
+</g>
+<clipPath id="cp46">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 683.88 292.75 L 738.6 292.75 L 738.6 475.65 L 683.88 475.65 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp46)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-382.27" x="706.2 711.12">GM</tspan></text>
+</g>
+</g>
+<clipPath id="cp47">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 543.94 109.82 L 620.74 109.82 L 620.74 201.284 L 543.94 201.284 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp47)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-153.62" x="558.94 562.7815 566.623 570.10189 573.58078 575.37429 577.1678 581.7279 585.5694 589.0483 592.52719 595.03939 598.51828 602.35977">Local Coverage</tspan></text>
+</g>
+</g>
+<clipPath id="cp48">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 683.88 33.6 L 738.6 33.6 L 738.6 109.824 L 683.88 109.824 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp48)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-73.944" x="690.72 694.9176 696.7111 702.1044 703.8979 707.7394 710.2516 712.0451 715.8866 717.6801 723.07339 724.8669 728.34579 731.82467">S/M or F/M as </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-65.664" x="695.88 699.3589 703.2004 707.0419 708.8354 710.6289 714.1078 717.5867 721.42819 723.2217">applicable</tspan></text>
+</g>
+</g>
+<clipPath id="cp49">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 467.11 33.6 L 543.93399 33.6 L 543.93399 109.824 L 467.11 109.824 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp49)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-86.304" x="468.55 470.70603 472.49955 474.29307 478.1345 481.6134 483.40693 487.24836 491.08979 492.8833 495.03935 496.83287 500.31178 503.79069 507.6321 509.78816 511.58168 515.42318 518.90206 524.5561 528.0223 531.8638 535.34268">- Insignificant damage </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-78.024" x="468.55 472.39143 474.9036 476.6971 478.49064 482.33207 485.81098 489.2899 491.0834 493.23945 497.08088 498.8744 502.3533 505.8322 509.31114 512.79006 516.2689 518.06246 519.85598 521.6495">or loss to vessel / </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-69.744" x="468.55 472.0289 475.87034 479.71177 481.50529 485.3467 491.00077 494.46699 498.3084 500.46446 502.25798 504.05149 505.845 509.3239 512.8028 515.315 519.1565 522.998 524.7915 529.94308 531.7366 533.8926 537.7341">equipment / cargo with </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-61.44" x="468.55 472.39143 474.18495 476.6971 480.17604 483.65495 485.81098 487.6045 491.0834 494.92485 498.40376 500.55979 502.3533 504.14683 507.62574 511.10466 514.58358 516.3771 518.5331 522.3746 525.85348 529.69497">direct cost less than </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-53.16" x="468.55 472.0289 475.5078 477.30134 480.78025 484.25917 487.73808 489.5316 494.0917 498.2893 502.84944">10,000 USD </tspan></text>
+</g>
+</g>
+<clipPath id="cp50">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.74 109.82 L 159.86 109.82 L 159.86 201.284 L 102.74 201.284 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp50)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="8.4" font-family="Arial" font-weight="bold"><tspan y="-152.78" x="116.18 120.8504 123.1436 130.21642 132.49282 137.64202 142.79122">2 Minor</tspan></text>
+</g>
+</g>
+<clipPath id="cp51">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 159.86 109.82 L 236.68399 109.82 L 236.68399 201.284 L 159.86 201.284 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp51)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-157.7" x="161.3 163.45604 165.24956 169.80968 175.69269 180.2528">- RWC </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-149.42" x="161.3 163.45604 168.01616 171.49509 174.97402 177.13005 179.64226 181.43578 184.9147 187.07074 190.54967 194.3911 196.18462 202.06763 205.90906 208.42127 211.90019 213.69371 218.25383 221.73276 225.21169 228.69062 230.84665">(Restricted Work Case) </tspan></text>
+</g>
+</g>
+<clipPath id="cp52">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 236.69 109.82 L 313.49 109.82 L 313.49 201.284 L 236.69 201.284 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp52)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-157.7" x="238.13 240.28604 242.07956 246.63968 250.1186 253.59754 255.39105 257.5471 261.38853 263.18205 268.57533 272.05424 275.89567 277.68919 281.1681 284.647 286.44053">- Health Medical </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-149.42" x="238.13 241.97144 244.48365 247.96257 251.4415 253.59754 259.2516 262.7178 266.55924 268.71528 270.5088 275.0689 278.54783 282.02674 285.50566 287.29917 289.4552 294.01533 299.4086 303.25004 307.81016">Treatment Case (HMTC)</tspan></text>
+</g>
+</g>
+<clipPath id="cp53">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 313.49 109.82 L 390.314 109.82 L 390.314 201.284 L 313.49 201.284 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp53)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-161.9" x="314.93 317.08604 318.87956 322.72099 326.1999 331.85395 335.68266 339.52409 342.03627 345.51518 348.02735 351.50627 353.29978 355.0933 360.74736 364.57606 368.05497 371.53388">- Temporary impact</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-153.62" x="314.93 317.08604 318.87956 324.27284 326.06636 329.90779 333.7492 336.26139 338.0549 341.5338 343.68986 345.8459 349.3248 352.8037 354.95976 358.43867 360.23219 362.3882 366.22966 368.02317 371.50209 377.15614 380.62236 382.41587 384.20939">- Minor effects to small </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-145.34" x="314.93 318.4089 320.92109 324.4">area</tspan></text>
+</g>
+</g>
+<clipPath id="cp54">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 390.31 109.82 L 467.11 109.82 L 467.11 201.284 L 390.31 201.284 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp54)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-165.98" x="391.75 393.90605 395.69956 401.09284 402.88636 406.72779 410.5692 413.0814 414.8749 418.71635 422.55778 426.03669 428.54887 432.02778 434.1838 435.97734 439.81877 443.6602 447.1391 448.93263">- Minor operational </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-157.7" x="391.75 393.90605 397.38496 399.17848 400.972 404.81343 407.3256 410.8045 412.59803 415.1102 418.5891 422.06803 425.90946 427.70298 429.859 431.65254 435.49397 439.3354 441.1289 442.92243 446.76387 448.55738 452.0363 455.87773 457.67124 461.51268">failure resulting in ship </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-149.42" x="391.75 395.59144 399.07035 400.86387 404.7053 408.54673 410.34025 412.49629 415.9752 419.4541 422.933 426.77445 428.56797 432.4094 436.25083 438.40687 440.20039 444.0418 446.19786">being taken out of </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-141.14" x="391.75 395.2289 398.70783 401.22 404.6989 406.49244 409.97135 413.45027 415.24378 417.3998 421.24125 423.75343 425.54695 429.26118 431.06105 434.53996 436.33348 440.1749 443.6538 447.13273">service for &#x003c; 1 day </tspan></text>
+</g>
+</g>
+<clipPath id="cp55">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 467.11 109.82 L 543.93399 109.82 L 543.93399 201.284 L 467.11 201.284 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp55)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-170.18" x="468.55 470.70603 472.49955 477.89283 479.68635 483.52778 487.3692 489.88139 491.6749 495.51634 498.99525 504.6493 508.1155 511.95695 515.43588 517.2294 521.07089 523.58309 525.3766 527.1701 531.0116 534.4905 537.96939">- Minor damage or loss </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-161.9" x="468.55 470.70603 474.54747 476.34098 479.8199 483.2988 486.7777 490.25663 493.73554 495.52906 497.32258 499.1161 500.9096 504.38853 508.22996 512.0714 513.8649 517.7064 523.3605 526.82669 530.66818 532.82418 534.6177 536.4112">to vessel / equipment / </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-153.62" x="468.55 472.0289 475.5078 478.02 481.86143 485.70286 487.49638 492.64799 494.4415 496.59754 500.43898 502.23249 506.0739 507.86744 510.3796 513.8585 517.3374 519.4934 521.2869 524.7658 528.6073 532.0862 534.2422">cargo with direct cost </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-145.34" x="468.55 472.39143 475.87034 478.02638 483.17799 486.6569 490.1358 493.97724 495.77076 499.24967 502.72859 504.5221 508.001 511.47993 514.9588 516.7523 518.9083 522.7498">between 10,000 to </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.36" font-family="Arial" font-weight="bold"><tspan y="-137.06" x="468.55 472.0289 475.5078 478.98674 480.78025 484.25917 487.73808 491.21699 493.0105 497.57063 501.76823">200,000 USD</tspan></text>
+</g>
+</g>
+<clipPath id="cp56">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.74 33.6 L 159.86 33.6 L 159.86 109.824 L 102.74 109.824 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp56)">
+<g id="Layer-1" data-name="P">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="8.4" font-family="Arial" font-weight="bold"><tspan y="-69.024" x="116.06 120.7304 123.0236 128.65161 130.92801 133.2044 138.3536 143.5028">1 Slight</tspan></text>
+</g>
+</g>
+<clipPath id="cp57">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 100.82 31.08 L 741.12 31.08 L 741.12 548.16006 L 100.82 548.16006 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp57)">
+<g id="Layer-1" data-name="P">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 159.5 476.26 L 160.22 476.26 L 160.22 505.42 L 159.5 505.42 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 236.33 476.26 L 237.05 476.26 L 237.05 505.42 L 236.33 505.42 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 313.13 476.26 L 313.85 476.26 L 313.85 505.42 L 313.13 505.42 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 389.95 476.26 L 390.67 476.26 L 390.67 505.42 L 389.95 505.42 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 466.75 476.26 L 467.47 476.26 L 467.47 505.42 L 466.75 505.42 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 543.58 476.26 L 544.30007 476.26 L 544.30007 505.42 L 543.58 505.42 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 683.52 476.26 L 684.24 476.26 L 684.24 505.42 L 683.52 505.42 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.98 292.39 L 620.13 292.39 L 620.13 293.11003 L 102.98 293.11003 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.98 109.46 L 620.13 109.46 L 620.13 110.18 L 102.98 110.18 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 101.66 32.88 L 102.98 32.88 L 102.98 520.92 L 101.66 520.92 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 620.14 32.88 L 621.46 32.88 L 621.46 519.6 L 620.14 519.6 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 738 32.88 L 739.32 32.88 L 739.32 519.6 L 738 519.6 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 159.5 34.2 L 160.22 34.2 L 160.22 474.94 L 159.5 474.94 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 236.33 34.2 L 237.05 34.2 L 237.05 474.94 L 236.33 474.94 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 313.13 34.2 L 313.85 34.2 L 313.85 474.94 L 313.13 474.94 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 389.95 34.2 L 390.67 34.2 L 390.67 474.94 L 389.95 474.94 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 466.75 34.2 L 467.47 34.2 L 467.47 474.94 L 466.75 474.94 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 543.58 34.2 L 544.30007 34.2 L 544.30007 474.94 L 543.58 474.94 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 683.52 34.2 L 684.24 34.2 L 684.24 474.94 L 683.52 474.94 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.98 519.6 L 739.32 519.6 L 739.32 520.92 L 102.98 520.92 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.98 505.42 L 739.32 505.42 L 739.32 506.74003 L 102.98 506.74003 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.98 474.94 L 739.32 474.94 L 739.32 476.26 L 102.98 476.26 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.98 383.83 L 620.13 383.83 L 620.13 384.55 L 102.98 384.55 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 621.46 292.39 L 738 292.39 L 738 293.11003 L 621.46 293.11003 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.98 200.93 L 620.13 200.93 L 620.13 201.65 L 102.98 201.65 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 684.24 109.46 L 738 109.46 L 738 110.18 L 684.24 110.18 Z " fill-rule="evenodd"/>
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 102.98 32.88 L 739.32 32.88 L 739.32 34.2 L 102.98 34.2 Z " fill-rule="evenodd"/>
+</g>
+</g>
+<g id="Layer-1" data-name="Artifact">
+<clipPath id="cp58">
+<path transform="matrix(1,0,0,-1,0,595.2)" d="M 12 12 L 829.68 12 L 829.68 583.2 L 12 583.2 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp58)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 595.2)" font-size="6.96" font-family="ArialMT"><tspan y="-17.52" x="387.91 392.93513 396.80488 400.63288 402.56776 404.82975 408.67167 410.21678 411.78276 415.62467 419.46659 421.40147 426.42658 430.2685 433.7485 437.59043 443.46467 447.30659 451.1485">Controlled Document</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</svg>

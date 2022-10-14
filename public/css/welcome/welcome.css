@@ -1,0 +1,48 @@
+body{
+	/* background-image: url('/images/backgrounds/KHK Empress.jpg'); */
+   background-size: cover;
+}
+.footer {
+   position: fixed;
+   right: 50px;
+   bottom: 0;
+   width: 30%;
+   background-color: orange;
+   color: white;
+   text-align: center;
+   text-align: center;
+}
+.shadow{
+   height: 350px;
+    background-color: #ffff;
+    padding: 30px;
+    border-radius: 15px;
+    opacity: 1;
+}
+.login_btn{
+   padding-left:30px; 
+   padding-right:30px; 
+   padding-top:10px; 
+   padding-bottom:10px; 
+   border-radius:5px; 
+   background-color: #000; 
+   color:#ffffff;
+}
+.register_btn{
+   margin-top:10px; 
+   padding-left:35px; 
+   padding-right:35px; 
+   padding-top:6px; 
+   padding-bottom:10px; 
+   border: 1px solid #000; 
+   border-radius:5px; 
+   background-color: transparent; 
+   color:#000
+}
+.text-home{
+   margin-top: 42%; 
+   padding:10px; 
+   border-radius:5px; 
+   background-color: #000; 
+   color:#ffffff;
+}
