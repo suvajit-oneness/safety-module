@@ -54,6 +54,12 @@
         <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
         <link href="{{ asset('/css/global.css') }}" rel="stylesheet">
 
+        {{-- Added by Onenesstechs --}}
+        <script src="{{ asset('/js/app.js') }}"></script>
+        <script defer type="text/javascript" src="{{asset('\js\custom\toastr\toastr.min.js')}}"></script>
+        <script defer type="text/javascript" src="{{asset('\js\custom\toastr\notificationMessage.js')}}"></script>
+
+        <script defer type="text/javascript" src="{{asset('\js\custom\block.js')}}"></script>
 
 
         <style type="text/css">
@@ -110,11 +116,12 @@
                         </div> -->--}}
 
         {{-- Scripts --}}
-        <script src="{{ mix('/js/app.js') }}"></script>
+        /* Commented By Onenesstechs */
+        /* <script src="{{ mix('/js/app.js') }}"></script>
         <script defer type="text/javascript" src="\js\custom\toastr\toastr.min.js"></script>
         <script defer type="text/javascript" src="\js\custom\toastr\notificationMessage.js"></script>
 
-        <script defer type="text/javascript" src="\js\custom\block.js"></script>
+        <script defer type="text/javascript" src="\js\custom\block.js"></script> */
         {{--<!-- <script type="text/javascript">
                             $(document).ajaxStart(function()
                             {
