@@ -42,7 +42,7 @@
                 </tr>                
             </thead>
             <thead>
-                <th colspan="4"></th>
+                <th colspan="6"></th>
                 <th colspan="3" title="Risk Rating" style="text-align: center;">Risk Rating</th>
                 <th title="Situation">Control Measure</th>
                 <th colspan="4" title="Residual Risk" style="text-align: center;">Residual Risk</th>                
@@ -52,6 +52,10 @@
                 <th title="No">No</th>
                 <th title="Event">Job / Event</th>
                 <th title="Hazard">Hazard </th>
+                {{-- Added by Onenesstechs - hazard details and hazard cause --}}
+                <th title="hazard_details">Hazard Details</th> 
+                <th title="hazard_cause">Hazard Cause</th>
+                {{-------------------------------------------------------------}}
                 <th title="Consequence">Consequence</th> 
                 <th title="Severity">Severity</th>                        
                 <th title="Likelihood">Likelihood</th>
@@ -78,6 +82,19 @@
                             <td>{{$rowCount}}</td>
                             <td>{{$data->hazardEvent}}</td>
                             <td>{{$data->hazard_lists_name}}</td>
+                            
+                            {{-- -----------------Added by onenesstechs------------ --}}
+                            
+                            @php
+                                $hazard_cause = $data->hazard_cause != null ? App\Models\hazard_master_list::find($data->hazard_cause)->causes : 'N.A';
+                                $hazard_details = $data->hazard_details != null ? App\Models\hazard_master_list::find($data->hazard_details)->hazard_details : 'N.A';
+                            @endphp
+
+                            <td>{{ $hazard_details }}</td>
+                            <td>{{ $hazard_cause }}</td>
+
+                            {{-- -----------------------Ends------------------------ --}}
+
                             <td>{{$data->consequences}}</td>
                             <td>{{$data->svr1}}</td>
                             <td>{{$data->lkh1}}</td>

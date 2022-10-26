@@ -13,6 +13,10 @@
         <div class="card-body">
         <h1 align="center">TEMPLATE</h1>
             <div class="row mb-3 ml-2">
+
+                {{-- Condition added by Onenesstechs- For add a new template only for shore admin --}}
+
+                @if(Auth::guard('web')->user()->is_ship != 1)
                 <div class="col-lg-3">
                     <a href="/adminTemplateCreate">
                         <button class="btn btn-danger" data-toggle="tooltip" data-placement="top" title="Add New Template">
@@ -20,6 +24,9 @@
                         </button>
                     </a>
                 </div>
+                @endif
+
+                {{-- Condition added by Onenesstechs- For add a new template only for shore admin --}}
                 
                 <!-- <div class="col-lg-3">
                     <a href="/adminTemplateCreate">
@@ -63,7 +70,8 @@
                                         @endif
                                         <td class="text-center">{{$template->creator_id}}</td>
                                         <td class="text-center">
-                                            
+                                            {{-- Condition added by Onenesstechs- For add a new template only for shore admin --}}
+                                            @if(Auth::guard('web')->user()->is_ship != 1)
                                                 <a class="btn btn-danger" data-toggle="tooltip" data-placement="top" title="Delete" 
                                                 onclick="return confirm('Are you sure you want to delete this item?');" href="/adminDeleteTemplate/{{$template->template_id}}">
                                                     <i class="fa fa-trash"></i>
@@ -76,7 +84,9 @@
                                                 <a class="btn btn-primary" data-toggle="tooltip" data-placement="top" title="Duplicate"
                                                href="/templateDuplicate/{{$template->template_id}}">
                                                     <i class="fa fa-clone"></i>
-                                                </a> 
+                                                </a>
+                                            @endif 
+                                            {{-- --------------------------------------------------------------------------- --}}
                                         </td>
                                     </tr>
                                 @endforeach

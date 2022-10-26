@@ -140,8 +140,13 @@ Route::group(['middleware' => ['auth', 'activated', 'activity', 'checkblocked']]
     // Route::get('/fetchvesselref', 'App\Http\Controllers\RiskAssessmentVesselInfoController@fetchvesselref');
     // Route::get('/risk_assessment_edit/{id}', 'App\Http\Controllers\RiskAssessmentVesselInfoController@edit');
     // Route::get('/getSignatureImage/{formId}/{signature}', 'App\Http\Controllers\RiskAssessmentVesselInfoController@getSignatureImage');
-    // Route::get('/fetchHazardDataForSection2', 'App\Http\Controllers\RiskAssessmentVesselInfoController@fetchHazardDataForSection2');
-    // Route::get('/fetchAllDataForSection2', 'App\Http\Controllers\RiskAssessmentVesselInfoController@fetchAllDataForSection2');
+    
+    // -------------------Uncommented by Onenesstechs------------------------
+    Route::get('/fetchHazardDataForSection2', 'App\Http\Controllers\RiskAssessmentVesselInfoController@fetchHazardDataForSection2');
+    
+    // ----------------------Uncommented by Onenesstechs---------------------
+    Route::get('/fetchAllDataForSection2', 'App\Http\Controllers\RiskAssessmentVesselInfoController@fetchAllDataForSection2');
+    
     // Route::post('/risk_assessment_update/{id}', 'App\Http\Controllers\RiskAssessmentVesselInfoController@update');
     // Route::get('template-use/{id}', 'App\Http\Controllers\RiskAssessmentVesselInfoController@templateUse');
 

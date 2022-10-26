@@ -699,8 +699,9 @@ class RiskAssessmentVesselInfoController extends Controller
         try
         {
             $id   = $request->id;
-            $data = hazard_master_list::join('hazard_lists', 'hazard_lists.id', 'hazard_master_lists.hazard_id')->where('hazard_master_lists.hazard_id', $id)->select('hazard_master_lists.id', 'ref', DB::raw('case when ref<10 then concat(hazard_lists.code,".0",ref) when ref>=10 then concat(hazard_lists.code,".",ref) end as reference') , DB::raw('concat(hazard_no," ",hazard_details," | Source: ",source," | Impact: ",impact) as hazards'))
+            $data = hazard_master_list::join('hazard_lists', 'hazard_lists.id', 'hazard_master_lists.hazard_id')->where('hazard_master_lists.hazard_id', $id)->select('hazard_master_lists.id','hazard_master_lists.causes', 'hazard_master_lists.hazard_details' , 'ref', DB::raw('case when ref<10 then concat(hazard_lists.code,".0",ref) when ref>=10 then concat(hazard_lists.code,".",ref) end as reference') , DB::raw('concat(hazard_no," ",hazard_details," | Source: ",source," | Impact: ",impact) as hazards'))
                 ->get();
+            // dd($data->toArray());
             return $data;
         }
         catch(Exception $e)

@@ -96,13 +96,14 @@
                         </thead>                        
                         <tbody>
                           @foreach($hazardMasters as $data)
+                            {{-- {{dd($data);}} --}}
                             <tr>
                               <td>
                                 {{$data->hazard_no}}                                
                               </td>
                               <td>
                                 {{$data->name}}
-                              </td>   
+                              </td> 
                               <td class="showMore" data-field="vessel_name" data-id="{{$data->id}}">
                                 @if($data->vessel_name)
                                 {!!substr($data->vessel_name,0,$stringLimit)!!}
@@ -110,7 +111,7 @@
                                 @else
                                   N.A.
                                 @endif
-                              </td>         
+                              </td>        
                               <td class="showMore" data-field="source" data-id="{{$data->id}}">
                                 {!!substr($data->source,0,$stringLimit)!!}
                                 <br><a  style="color:blue;cursor: pointer;" onclick="toggleExpansion(this)">Show More</a>
@@ -124,9 +125,11 @@
                                 <br><a  style="color:blue;cursor: pointer;" onclick="toggleExpansion(this)">Show More</a>
                               </td>
                               <td class="showMore" data-field="causes" data-id="{{$data->id}}">
-                                {!! Str::limit($data->causes, $stringLimit) !!}
+                                {{-- {!! Str::limit($data->causes, $stringLimit) !!} --}}
+                                {{-- Commented By Onenesstechs Str::limit giving error --}}
+                                {!! substr($data->causes, 0, $stringLimit) !!}
                                 <br><a  style="color:blue;cursor: pointer;" onclick="toggleExpansion(this)">Show More</a>
-                              </td>
+                              </td>  
                               <td class="showMore" data-field="impact" data-id="{{$data->id}}">
                                 {!! substr($data->impact,0, $stringLimit) !!}
                                 <br><a  style="color:blue;cursor: pointer;" onclick="toggleExpansion(this)">Show More</a>
@@ -157,7 +160,7 @@
                               </td>
                               <td >{{$data->rr_severity}}</td>                      
                               <td >{{$data->rr_likelihood}}</td>
-                              <td style="background-color: {{$riskMatrices[$data->ir_risk_rating]}}">{{$data->rr_risk_rating}}</td> 
+                              <td style="background-color: {{$riskMatrices[$data->ir_risk_rating]}}">{{$data->rr_risk_rating}}</td>
                              {{-- <td>
                                 @if($data->reduction_measure)
                                   {{$data->reduction_measure}}
@@ -186,6 +189,9 @@
                         @endforeach
                         </tbody> 
                         <tfoot>
+                          {{-- @php
+                          dd('OKAY2');
+                        @endphp --}}
                         <tr>
                               <th>Hazard No</th>
                               <th>Hazard Name</th>

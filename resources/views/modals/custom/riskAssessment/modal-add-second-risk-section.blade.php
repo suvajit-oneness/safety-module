@@ -22,12 +22,13 @@
                   </div>      
             </div>
             <!-- Drop down selection from hazard-list table -->
-            <div class="row mb-3" >
+            {{-- New Select with search option --}}
+            <div class="row mb-3">
                   <div class="col-md-3">
                       <label for="hazards_no" id="hazards_no" class="mr-sm-2 mt-1" style = "display:none;" >Hazard No<font color="red" size="5px" >*</font></label>
                   </div>
                   <div class="col-md-9">
-                        <select class="form-control mr-sm-2" id="hazards_subtype" name="hazards_subtype" required  style="word-wrap: break-word;white-space: normal;height: 100px; display : none;" >
+                        <select class="form-control mr-sm-2 js-example-basic-single" id="hazards_subtype" name="hazards_subtype" required  style="word-wrap: break-word;white-space: normal;height: 100px; display:none; width: 100%;" >
                             <option value="">Select a Hazard Type First</option>
                             @foreach($filledHazards as $filledHazard)
                                <option title="{{$filledHazard->name}}" value="{{$filledHazard->id}}">
@@ -35,15 +36,38 @@
                               </option>
                             @endforeach
                         </select>   
-                       
                   </div> 
             </div>
+
+            {{-- New Fields added by onenesstechs --}}
+            <div class="row mb-3" >
+                  <div class="col-md-3">
+                      <label for="hazard_cause" id="hazard_cause_label" style="display: none;" class="mr-sm-2 mt-1">Hazard Cause<font color="red" size="5px" >*</font></label>
+                  </div>
+                  <div class="col-md-9">
+                        <select class="form-control mr-sm-2 js-example-basic-single" id="hazard_cause" name="hazard_cause" required  style="word-wrap: break-word;white-space: normal;height: 200px; display:none; width: 100%;" >
+                            <option value="">Select a Hazard Type First</option>
+                        </select>   
+                  </div> 
+            </div>
+            <div class="row mb-3" >
+                  <div class="col-md-3">
+                      <label for="hazard_details" id="hazard_details_label" style="display: none;" class="mr-sm-2 mt-1">Hazard Details<font color="red" size="5px" >*</font></label>
+                  </div>
+                  <div class="col-md-9">
+                        <select class="form-control mr-sm-2 js-example-basic-single" id="hazard_details" name="hazard_details" required  style="word-wrap: break-word;white-space: normal;height: 100px; display:none; width: 100%;" >
+                            <option value="">Select a Hazard Type First</option>
+                        </select>   
+                  </div> 
+            </div>
+            {{-- ---------------------------------------------- --}}
+
             <div class="row mb-3">
                   <div class="col-md-3">
                       <label for="source" class="mr-sm-2 mt-1">Area/Source</label>
                   </div>
                   <div class="col-md-9">
-                      <input class="form-control" id="source" name="source" value="" readonly="readonly"/>
+                      <input class="form-control" id="source" name="source" value=""/>
                   </div>
             </div>
 
@@ -52,7 +76,9 @@
                     <label for="consequences" class="mr-sm-2 mt-1">Impact:</label>
                 </div>
                 <div class="col-md-9">
-                    <textarea class="form-control" id="consequences" placeholder="Enter Consequences" rows="3" name="consequences" readonly="readonly" disabled></textarea> 
+                    {{-- <textarea class="form-control" id="consequences" placeholder="Enter Consequences" rows="3" name="consequences" readonly="readonly" disabled></textarea> --}}
+                    {{-- Change By Onenesstechs - Add Editable option to impact --}}
+                    <textarea class="form-control" id="consequences" placeholder="Enter Consequences" rows="3" name="consequences"></textarea> 
                 </div>
             </div>
             <div class="row mb-3">

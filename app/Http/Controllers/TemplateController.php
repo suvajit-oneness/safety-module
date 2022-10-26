@@ -129,7 +129,7 @@ class TemplateController extends Controller
             $riskFactor       = risk_matrix::pluck('risk_factor', 'code');
             $filledHazards    = hazard_list::select('hazard_lists.id', 'hazard_lists.code', 'hazard_lists.name')->get();
 
-            return view('templateCreate', ['department'                             => $department, 'vessels'                             => $vessel, 'riskMatriceColor'                             => $riskMatriceColor, 'riskFactor'                             => $riskFactor, 'filledHazards'                             => $filledHazards]);
+            return view('templateCreate', ['department' => $department, 'vessels'                             => $vessel, 'riskMatriceColor'                             => $riskMatriceColor, 'riskFactor'                             => $riskFactor, 'filledHazards'                             => $filledHazards]);
             // dd('Get it');
         }
         else{
@@ -147,7 +147,7 @@ class TemplateController extends Controller
     public function store(Request $request)
     {
         //
-        // dd($result->last_assessment);
+        // dd($request->section_2_array);
         $tempB18                     = null;
         $section_1_id                = $request->input('section_1_id');
         $section_2_id                = $request->input('section_2_id');
@@ -278,6 +278,12 @@ class TemplateController extends Controller
                 $tempB18->vessel_info_id          = $forb18;
                 $tempB18->hazard_list_id          = $section_2_value->hazardTypeId;
                 $tempB18->hazards                 = $section_2_value->hazardSubTypeId;
+                
+                // ----------------------Added By Onenesstechs------------------------
+                $tempB18->hazard_cause                 = $section_2_value->hazardCauseId;
+                $tempB18->hazard_details                 = $section_2_value->hazardDetailsId;
+                // -------------------------------------------------------------------
+
                 $tempB18->hazardEvent             = $section_2_value->hazardEvent;
                 $tempB18->source                  = $section_2_value->source;
                 $tempB18->acFlag                  = $section_2_value->acFlag;
@@ -344,10 +350,10 @@ class TemplateController extends Controller
             $riskFactor       = risk_matrix::pluck('risk_factor', 'code');
             $filledHazards    = hazard_list::select('hazard_lists.id', 'hazard_lists.code', 'hazard_lists.name')->get();
             // dd($template[0]);
-            $templateData     = Template::leftJoin('template_hazard', 'template_hazard.template_id', 'templates.template_id')->leftJoin('template_departments', 'template_departments.code', 'templates.template_code')
+            $templateData = Template::leftJoin('template_hazard', 'template_hazard.template_id', 'templates.template_id')->leftJoin('template_departments', 'template_departments.code', 'templates.template_code')
                 ->leftJoin('hazard_lists', 'hazard_lists.id', 'template_hazard.hazard_list_id')
                 ->leftJoin('hazard_master_lists', 'hazard_master_lists.id', 'template_hazard.hazards')
-                ->select('templates.name as template_name', 'templates.ref as template_ref', 'templates.template_code as template_code', 'templates.form_json as json', 'template_departments.name as template_department_name', 'template_hazard.vessel_info_id as vessel_info_id', 'template_hazard.hazard_list_id', 'template_hazard.hazards', 'template_hazard.consequences', 'template_hazard.remarks', 'template_hazard.hazardEvent', 'template_hazard.source', 'template_hazard.lkh1', 'template_hazard.svr1', 'template_hazard.rf1', 'template_hazard.control_measure', 'template_hazard.lkh2', 'template_hazard.svr2', 'template_hazard.rf2', 'template_hazard.add_control', 'template_hazard.acFlag', 'template_hazard.additional_control', 'template_hazard.additional_control_type',
+                ->select('templates.name as template_name', 'templates.ref as template_ref', 'templates.template_code as template_code', 'templates.form_json as json', 'template_departments.name as template_department_name', 'template_hazard.vessel_info_id as vessel_info_id', 'template_hazard.hazard_list_id', 'template_hazard.hazards', 'template_hazard.hazard_cause', 'template_hazard.hazard_details', 'template_hazard.consequences', 'template_hazard.remarks', 'template_hazard.hazardEvent', 'template_hazard.source', 'template_hazard.lkh1', 'template_hazard.svr1', 'template_hazard.rf1', 'template_hazard.control_measure', 'template_hazard.lkh2', 'template_hazard.svr2', 'template_hazard.rf2', 'template_hazard.add_control', 'template_hazard.acFlag', 'template_hazard.additional_control', 'template_hazard.additional_control_type',
 
             'hazard_master_lists.id as hazard_category_id', 'hazard_master_lists.hazard_no as hazard_master_list_name', 'hazard_lists.id as hazard_list_id', 'hazard_lists.code as hazard_lists_code', 'hazard_lists.name as hazard_lists_name')
                 ->where('templates.template_id', 'like', $id)->get();

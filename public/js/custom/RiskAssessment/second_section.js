@@ -16,10 +16,18 @@ $('#hazards-name').change(function(){
     clearSection2Form(); 
 
     // fetching hazard no according to hazard name
-    var temp = fetchHazardSubTypes(selected_value); 
+    var temp1 = fetchHazardSubTypes(selected_value)['hazards_name'];
+
+    // Added By Onenesstechs - Data added for hazard cause and hazard details.
+    var temp2 = fetchHazardSubTypes(selected_value)['hazards_causes'];
+    var temp3 = fetchHazardSubTypes(selected_value)['hazards_details'];
 
     // adding hazard no drop-down options
-    $('#hazards_subtype').html(temp); 
+    $('#hazards_subtype').html(temp1);
+
+    // Added By Onenesstechs 
+    $('#hazard_details').html(temp3); 
+    $('#hazard_cause').html(temp2); 
 });
 
 /* 
@@ -77,7 +85,26 @@ $('#hazards-name').change(function(){
     // console.log('iii');
     $('#hazards_no').css('display','block');
     $('#hazards_subtype').css('display','block');
+
+    // {Onenesstechs} - Showing the hazard cause and hazard details option
+    $('.js-example-basic-single').select2();
+
+    $('#hazard_cause').css('display','block');
+    $('#hazard_cause_label').css('display','block');
+    
+    $('#hazard_details').css('display','block');
+    $('#hazard_details_label').css('display','block');
+
+    // {Onenesstechs} -----------------------------------------------------
 });
+
+// ----------New Auto completed for hazard cause and hazard details added by {Onenesstechs}-----
+$('#hazards_subtype').on('change',function(){
+    var value = $(this).val();
+    $("#hazard_cause").val(value).change();
+    $("#hazard_details").val(value).change();
+})
+// ----------------------{Onenesstechs}-----------------------------------------------------
 
 /* 
 * Runs when likelihood1 is changed, calculates risk factor and places in the text box
@@ -144,7 +171,7 @@ function checkForRiskFactor(){
 */
 function fetchHazardSubTypes(id){
 
-    var temp = '';
+    var temp,temp1,temp2,temp3 = '';
 
     // fetching hazard no list from with id
     $.ajax({
@@ -157,9 +184,18 @@ function fetchHazardSubTypes(id){
         success:function(data){
 
             // creating options list
-            temp = '<option value="">Select a hazard name</option>';
+            temp1 = '<option value="">Select a hazard name</option>';
+
+            // Added by onenesstechs
+            temp2 = '<option value="">Select a hazard details</option>';
+
+            temp3 = '<option value="">Select a hazard cause</option>';
+
             for(i=0;i<data.length;i++){
-                temp+='<option value="'+data[i].id+'">'+data[i].hazards+'</option>';
+                temp1+='<option value="'+data[i].id+'">'+data[i].hazards+'</option>';
+                temp2+='<option value="'+data[i].id+'">'+data[i].hazard_details+'</option>';
+                if(data[i].causes != null)
+                    temp3+='<option value="'+data[i].id+'">'+data[i].causes+'</option>';
             }
         },
         error:function (err){
@@ -167,6 +203,12 @@ function fetchHazardSubTypes(id){
         }
     });
 
+    // Added by Onenesstechs
+
+    var temp = [];
+    temp['hazards_name'] = temp1;
+    temp['hazards_details'] = temp2;
+    temp['hazards_causes'] = temp3;
     return temp; 
 }
 
@@ -176,11 +218,17 @@ function fetchHazardSubTypes(id){
 function addHazard(){
 
     // emptying out drop-downs
-    $('#hazards-name').val('');
-    $('#hazards_subtype').val('');
 
-    // this id is for edit, therefore, emptying out when adding a new one 
-    $('#section_2_row_index').val('');   
+    // Comment out by Onenesstechs
+    // $('#hazards-name').val('');
+    // $('#hazards_subtype').val('');
+    // ------------------------
+
+    // this id is for edit, therefore, emptying out when adding a new one
+
+    // Comment Out by Onenesstechs
+    // $('#section_2_row_index').val('');
+    // --------------------------   
 
     // show the modal  
     showHazardModal();
@@ -198,7 +246,7 @@ function showHazardModal(){
 */
 function closeModal(){
     $('#AddRowModal').modal('hide');   
-    clearSection2Form();
+    // clearSection2Form();
 }
 
 /* 
@@ -303,6 +351,14 @@ function pushToGlobalSection2Array(section2RowCount){
         hazardTypeId : $('#hazards-name').find(':selected').val(),  
         hazardSubTypeName : $('#hazards_subtype').find(':selected').text(),
         hazardSubTypeId : $('#hazards_subtype').find(':selected').val(),
+
+        // Added by Onenesstechs
+        hazardCauseName : $('#hazard_cause').find(':selected').text(),
+        hazardCauseId : $('#hazard_cause').find(':selected').val(),
+        hazardDetailsName : $('#hazard_details').find(':selected').text(),
+        hazardDetailsId : $('#hazard_details').find(':selected').val(),
+        // ---------------------------
+
         hazardEvent : $('#event').val(),
         source : $('#source').val(),
     //    consequences : $('#consequences').summernote('code'),
@@ -336,7 +392,12 @@ function removeRow(rowCount){
 function getSection2Row(rowCount){
     $('#no_data').remove();
     var temp = '';
+
+    // console.log(rowCount)
+
     var row = section2Rows.find(row=>row.section2RowCount==rowCount);
+
+    console.log(row);
     
     //console.log('riskMatriceColor : ',riskMatriceColor);
     //console.log('riskMatriceColor : ',riskMatriceColor.(row.grr_p));
@@ -353,7 +414,17 @@ function getSection2Row(rowCount){
                 '</td>'+
                 '<td>'+
                     row.hazardTypeName+
+                '</td>'+
+                
+                //------------- Added by Onenesstechs------------
+                '<td>'+
+                    row.hazardDetailsName+
+                '</td>'+
+                '<td>'+
+                    row.hazardCauseName+
                 '</td>'+                
+                //-----------------------------------------------   
+                
                 '<td>'+
                     row.consequences+
                 '</td>'+

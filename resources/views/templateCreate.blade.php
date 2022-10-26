@@ -10,13 +10,13 @@
   <link rel="stylesheet" href="/css/dataTables/dataTables.bootstrap.min.css">
   <link href="/css/summernote/summernote.css" rel="stylesheet">
   <link href="/css/custom/riskAssessment/riskAssessmentCreate.css" rel="stylesheet">
-
+  <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
 @endsection
 @section('content')
 <div class="container-fluid">
     <div class="card">
         <div class="card-body">
-            <form action="" method = 'POST' id = 'RiskForm'>
+            <form action="" method='POST' id='RiskForm'>
                 @csrf
                {{-- <input type = "hidden" name = "section_1_id" id="section_1_id" value = "{{$VesselInfoId}}">
                 <input type = "hidden" name = "section_2_id" id="section_2_id" value = "{{$templateId}}">  --}}
@@ -128,6 +128,8 @@
 
     <script src="https://formbuilder.online/assets/js/form-builder.min.js"></script>
     <script src="https://formbuilder.online/assets/js/form-render.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    
 
     <!-- <script src="/js/formBuilder/form-builder.min.js"></script>
     <script src="/js/formBuilder/form-render.min.js"></script> -->
@@ -135,6 +137,11 @@
 
     <!-- summernote -->
     <script type="text/javascript" src="/js/summernote/summernote.js"></script>
+
+    {{-- Select 2 Function (Added by Onenesstechs) --}}
+    {{-- <script>
+        $('.js-example-basic-single').select2();
+    </script> --}}
 
     <!-- ajax form -->
     <script src="/js/jquery/jquery.form.js"></script>
@@ -187,7 +194,7 @@
                     return false;
                 }
                 else{
-                    // console.log($('#form_temp').val());
+                    console.log($('#form_temp').val());
                     return true;
                 }
             });
