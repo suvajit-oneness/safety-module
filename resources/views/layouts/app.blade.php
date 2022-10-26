@@ -26,7 +26,10 @@
 
             {{-- Toastr
             ========================================== --}}
-            <link href="/js/custom/toastr/toastr.min.css" rel="stylesheet">
+            {{-- <link href="/js/custom/toastr/toastr.min.css" rel="stylesheet"> --}}
+            
+            {{-- Edited by Onenesstechs --}}
+            <link href="{{asset('/js/custom/toastr/toastr.min.css')}}" rel="stylesheet">
 
         <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.css"/> -->
 
@@ -44,8 +47,12 @@
         @yield('template_linked_fonts')
 
         {{-- Styles --}}
-        <link href="{{ mix('/css/app.css') }}" rel="stylesheet">
-        <link href="/css/global.css" rel="stylesheet">
+        {{-- <link href="{{ mix('/css/app.css') }}" rel="stylesheet">
+        <link href="/css/global.css" rel="stylesheet"> --}}
+        
+        {{-- edited by Onenesstechs  --}}
+        <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
+        <link href="{{ asset('/css/global.css') }}" rel="stylesheet">
 
 
 
