@@ -63,7 +63,8 @@ $('#hazards_subtype').change(function(){
             $('#rf2').val(data.rr_risk_rating);
              document.getElementById('rf1_label').innerHTML = riskFactor[data.ir_risk_rating];
             document.getElementById('rf2_label').innerHTML = riskFactor[data.rr_risk_rating];
-            document.getElementById('consequences').disabled = true;
+            // Commented by Onenesstechs for making this field editable
+            // document.getElementById('consequences').disabled = true;
             // placing add control value according to the risk ratings
             if(data.rr_risk_rating>=1 && data.rr_risk_rating<=4){
                 document.getElementById('acFlag').value = "No";

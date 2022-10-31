@@ -116,12 +116,12 @@
                         </div> -->--}}
 
         {{-- Scripts --}}
-        /* Commented By Onenesstechs */
-        /* <script src="{{ mix('/js/app.js') }}"></script>
+        {{-- Commented By Onenesstechsdddd --}}
+        {{-- <script src="{{ mix('/js/app.js') }}"></script>
         <script defer type="text/javascript" src="\js\custom\toastr\toastr.min.js"></script>
         <script defer type="text/javascript" src="\js\custom\toastr\notificationMessage.js"></script>
 
-        <script defer type="text/javascript" src="\js\custom\block.js"></script> */
+        <script defer type="text/javascript" src="\js\custom\block.js"></script> --}}
         {{--<!-- <script type="text/javascript">
                             $(document).ajaxStart(function()
                             {
