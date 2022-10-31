@@ -62,9 +62,9 @@
                             <tr>
                               <th>Hazard No</th>
                               <th>Hazard Name</th>
-                              <th>Vessel Name</th>
+                              {{-- <th>Vessel Name</th> --}}
                               <th>Area/Source</th>
-                              <th>Life Cycle</th>
+                              {{-- <th>Life Cycle</th> --}}
                               <th>Hazard Details</th>
                               <th>Causes</th>
                               <th>Impact</th>
@@ -79,7 +79,7 @@
                               @endif
                             </tr>
                             <tr>
-                                <th colspan="11"></th>
+                                <th colspan="9"></th>
                                 <th>Severity</th>
                                 <th>Likelihood</th>                               
                                 <th>Risk Rating</th>
@@ -104,22 +104,22 @@
                               <td>
                                 {{$data->name}}
                               </td> 
-                              <td class="showMore" data-field="vessel_name" data-id="{{$data->id}}">
+                              {{-- <td class="showMore" data-field="vessel_name" data-id="{{$data->id}}">
                                 @if($data->vessel_name)
                                 {!!substr($data->vessel_name,0,$stringLimit)!!}
                                 <br><a  style="color:blue;cursor: pointer;" onclick="toggleExpansion(this)">Show More</a>
                                 @else
                                   N.A.
                                 @endif
-                              </td>        
+                              </td>         --}}
                               <td class="showMore" data-field="source" data-id="{{$data->id}}">
                                 {!!substr($data->source,0,$stringLimit)!!}
                                 <br><a  style="color:blue;cursor: pointer;" onclick="toggleExpansion(this)">Show More</a>
                               </td>
-                              <td class="showMore" data-field="life_cycle" data-id="{{$data->id}}">
+                              {{-- <td class="showMore" data-field="life_cycle" data-id="{{$data->id}}">
                                 {!! substr($data->life_cycle,0, $stringLimit) !!}
                                 <br><a  style="color:blue;cursor: pointer;" onclick="toggleExpansion(this)">Show More</a>
-                              </td>
+                              </td> --}}
                               <td class="showMore" data-field="hazard_details" data-id="{{$data->id}}">
                                 {!! substr($data->hazard_details,0, $stringLimit) !!}
                                 <br><a  style="color:blue;cursor: pointer;" onclick="toggleExpansion(this)">Show More</a>
@@ -195,9 +195,9 @@
                         <tr>
                               <th>Hazard No</th>
                               <th>Hazard Name</th>
-                              <th>Vessel Name</th>
+                              {{-- <th>Vessel Name</th> --}}
                               <th>Area/Source</th>
-                              <th>Life Cycle</th>
+                              {{-- <th>Life Cycle</th> --}}
                               <th>Hazard Details</th>
                               <th>Causes</th>
                               <th>Impact</th>
