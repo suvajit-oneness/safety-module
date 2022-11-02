@@ -31,7 +31,9 @@
                 	<div class="col-md-12" style="text-align:center;">
                 		<button class="btn btn-primary" type="submit" name="submit" title="Click to submit">
                             Submit
-                        </button>	   			
+                        </button>
+                        {{-- Back Button added by onenesstechs --}}
+                        <a href="{{url('/location')}}" class="btn btn-secondary"> Back</a>	   			
                 	</div>
                 </div>
             </form>

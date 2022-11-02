@@ -227,7 +227,7 @@
 
 
 
-                <a href="{{ url('/vessel_details/edit/'.$vessel_data->id) }}" class="btn btn-info w-25 py-1  shadow float-right">Update <i class="fas fa-user-edit pl-3"></i></a>
+                <a href="{{ url('/vessel_details/edit/'.$data->id) }}" class="btn btn-info w-25 py-1  shadow float-right">Update <i class="fas fa-user-edit pl-3"></i></a>
             </div>
 
         @else

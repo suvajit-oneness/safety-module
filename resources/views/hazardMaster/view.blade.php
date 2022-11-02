@@ -180,9 +180,11 @@
                                 <a href="hazard-master-delete/{{$data->id}}" onclick="return confirm('Are you sure?')"class="btn btn-danger">
                                   <i class="fa fa-trash"></i>
                                 </a>
-                                {{-- <a href="hazard-master-edit/{{$data->id}}" class="btn btn-primary">
+                                {{-- Added By onenesstechs BugID:15 --}}
+                                <a href="hazard-master-edit/{{$data->id}}" class="btn btn-primary">
                                   <i class="fa fa-edit"></i>
-                                </a> --}}
+                                {{-- --------------------- --}}
+                                </a>
                               </td>
                               @endif
                             </tr>

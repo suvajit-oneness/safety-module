@@ -172,7 +172,7 @@ class Vessel_detailsController extends Controller
         // dd('I am in edit');
         try {
             if (session('is_ship')) {
-                dd('ship');
+                // dd('ship');
                 // edit view
                 $data   = DB::table('vessel_details')->find($id);
 

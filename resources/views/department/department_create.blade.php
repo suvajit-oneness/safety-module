@@ -15,13 +15,9 @@
             <h2>Add New Department</h2>
             <br>
             <form method="post" action="/department" class="form" id="department_form">
-
             	<input type = "hidden" name = "_token" value = "<?php echo csrf_token(); ?>">
-                
                 <div class="row container">
-                    <div class="col-3">
-                        <label>Name</label>       
-                    </div>
+                    <label class="col-3">Name</label>       
                     <div class="col-9">
                         <input class="form-control" required type="text" name=name id="name" placeholder="Enter Department Name">
                     </div>
@@ -31,7 +27,9 @@
                 	<div class="col-md-12" style="text-align:center;">
                 		<button class="btn btn-primary" type="submit" name="submit" title="Click to submit">
                             Submit
-                        </button>	   			
+                        </button>
+                        {{-- Back Button added by onenesstechs --}}
+                        <a href="{{url('/department')}}" class="btn btn-secondary"> Back</a>
                 	</div>
                 </div>
             </form>

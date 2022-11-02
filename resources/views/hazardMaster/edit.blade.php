@@ -15,7 +15,7 @@
       </div>
       <div class="row">
         <div class="col-md-12 col-sm-12">
-          <form method="post" action="../hazard-master-update/{{$hazard_master_details->id}}" class="form" id="hazard_master_form">
+          <form method="post" action="{{url('/hazard-master-update').'/'.$hazard_master_details->id}}" class="form" id="hazard_master_form">
 
             <input class="form-control" id="reference_hidden" name="reference_hidden" value="{{$hazard_master_details->ref}}" hidden></input>
 

@@ -34,15 +34,16 @@
                                 <tr>
                                     <td class="text-center">{{$i++}}</td>
                                     <td class="text-center">{{$department->name}}</td>
-                                    <td class="text-center">
+                                    {{-- New class added by onenesstechs d-flex justify-content-center --}}
+                                    <td class="text-center d-flex justify-content-center">
                                         <form action="/department/{{$department->id}}" method="POST">
                                             {{ method_field('DELETE') }}
-                                            <button class="btn  btn-danger" type="submit" onclick="return confirm('Are you sure you want to delete this item?');" href="department/{{$department->id}}">
-                                                <i class="fa fa-trash"></i>    
-                                            </button>
+                                                <button class="btn  btn-danger" type="submit" onclick="return confirm('Are you sure you want to delete this item?');" href="department/{{$department->id}}">
+                                                    <i class="fa fa-trash"></i>    
+                                                </button>
                                             <input type="hidden" name="_token" value="{{ csrf_token() }}">
                                         </form>
-                                        <a class="btn btn-primary" href="/department/{{$department->id}}/edit">
+                                        <a class="btn btn-primary mx-2" href="/department/{{$department->id}}/edit">
                                             <i class="fa fa-edit"></i>
                                         </a>
                                     </td>
